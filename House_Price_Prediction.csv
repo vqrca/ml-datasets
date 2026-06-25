@@ -1,0 +1,1125 @@
+Area_SqFt,Rooms,Build_Year,Location,Street_Type,Furnishing,Property_Type,Has_Pool,Price
+2473.192784,4,1992,Jaipur,Residential Lane,Furnished,Apartment,No,568486
+2353.472711,4,2006,Indore,Corner Plot,Unfurnished,Apartment,Yes,577214
+2212.222005,3,2012,Jaipur,Highway Facing,Semi-Furnished,Duplex,No,581300
+2823.886596,6,1993,Lucknow,Main Road,Unfurnished,Villa,Yes,794614
+1869.648721,5,2012,Jaipur,Corner Plot,Semi-Furnished,Apartment,No,493086
+2073.80225,5,1986,Kanpur,Residential Lane,Semi-Furnished,Apartment,No,470693
+2103.042886,3,2020,Indore,Corner Plot,,Apartment,No,552164
+4316.818615,6,2008,Lucknow,Corner Plot,Semi-Furnished,Apartment,No,988286.819
+2520.167537,4,2019,Prayagraj,Residential Lane,Semi-Furnished,Apartment,No,583210
+2382.194887,3,2017,Jaipur,Gated Society,Semi-Furnished,Independent House,Yes,694155
+2160.394433,6,1998,Prayagraj,Residential Lane,Furnished,Apartment,No,552135
+2117.206378,4,2016,Lucknow,Gated Society,Semi-Furnished,Duplex,No,608117
+1906.07095,4,2013,Indore,Highway Facing,Semi-Furnished,Duplex,Yes,551382
+1393.167663,6,1990,Lucknow,Corner Plot,Semi-Furnished,Duplex,No,480838
+1774.276388,2,2023,Delhi,Main Road,Semi-Furnished,Apartment,No,516094
+1457.835515,7,1992,Kanpur,Gated Society,Semi-Furnished,Apartment,No,423867
+1833.666659,2,1996,Noida,Highway Facing,Furnished,Apartment,No,461212
+2256.291225,3,2012,Prayagraj,Main Road,Semi-Furnished,Independent House,Yes,594145
+825.6824721,7,2016,Jaipur,Highway Facing,Semi-Furnished,Apartment,No,373669
+2124.489948,3,1990,Jaipur,Main Road,Furnished,Independent House,No,587632
+2634.320043,5,2020,Gurugram,Highway Facing,Furnished,Apartment,Yes,759944
+2121.095774,3,2024,Lucknow,Main Road,Furnished,Duplex,Yes,670503
+,5,2000,Delhi,Corner Plot,Semi-Furnished,Apartment,No,585692
+2342.935537,2,2019,Indore,Highway Facing,Unfurnished,Apartment,No,513401
+2669.698783,7,2009,Prayagraj,Residential Lane,Furnished,Independent House,No,741340
+2777.141066,2,2020,Delhi,Gated Society,Furnished,Apartment,No,767737
+2676.976224,2,1996,Kanpur,Gated Society,Semi-Furnished,Duplex,No,664507
+1134.993085,2,2012,Delhi,Gated Society,Furnished,Independent House,No,471846
+3013.916826,2,2012,Kanpur,Gated Society,Unfurnished,Independent House,No,692447
+2129.817363,7,2015,Delhi,Corner Plot,Furnished,Apartment,No,686516
+1954.416776,3,2009,Kanpur,Residential Lane,Unfurnished,Apartment,No,428810
+2549.311903,3,2011,Noida,Main Road,Unfurnished,Apartment,No,583833
+2447.375721,3,2010,Delhi,Gated Society,,Apartment,No,720548
+1549.203908,7,2000,Gurugram,Corner Plot,Semi-Furnished,Apartment,Yes,553767
+1539.927544,3,2006,Kanpur,Main Road,Furnished,Villa,No,551212
+1708.78385,2,1992,Lucknow,Corner Plot,Semi-Furnished,Apartment,No,376354
+2225.064512,4,2024,Prayagraj,Residential Lane,Semi-Furnished,Apartment,No,509383
+1836.017444,5,2010,Prayagraj,Main Road,Semi-Furnished,Apartment,Yes,524827
+2136.489625,7,2009,Prayagraj,Main Road,Unfurnished,Independent House,No,603139
+3367.185908,4,1996,Gurugram,Gated Society,Furnished,Apartment,No,851078
+2584.50081,5,2017,Prayagraj,Residential Lane,Semi-Furnished,Independent House,No,654808
+2129.373319,3,2003,Delhi,Gated Society,Semi-Furnished,Independent House,No,638105
+2389.237472,5,2008,Gurugram,Corner Plot,Furnished,Villa,No,797935
+2445.459141,2,2017,Gurugram,Corner Plot,Furnished,Apartment,No,650435
+1969.820115,3,2019,Noida,Gated Society,Unfurnished,Apartment,No,528162
+1875.849384,5,1995,Lucknow,Main Road,Unfurnished,Apartment,No,470946
+2503.455356,4,2019,Noida,Main Road,Unfurnished,Apartment,No,611440
+3054.072877,2,2019,Delhi,Main Road,,Villa,Yes,894422
+2575.074134,2,2020,Delhi,Highway Facing,Furnished,Apartment,Yes,701929
+3251.774702,6,1989,Delhi,Corner Plot,Semi-Furnished,Villa,No,942094
+2543.265899,6,2023,Noida,Gated Society,Semi-Furnished,Independent House,No,779298
+2688.941362,2,2022,Prayagraj,Residential Lane,Semi-Furnished,Duplex,Yes,679739
+5648.321783,7,2003,Prayagraj,Main Road,Unfurnished,Apartment,No,1355674.054
+2302.416789,5,1990,Gurugram,Gated Society,Semi-Furnished,Independent House,No,690306
+1764.554012,7,1987,Noida,Corner Plot,Semi-Furnished,Independent House,No,544324
+2556.15696,2,1987,Kanpur,Main Road,Semi-Furnished,Apartment,No,532557
+2011.23932,,2016,Jaipur,Gated Society,Furnished,Duplex,No,698661
+2107.561066,4,2004,Jaipur,Main Road,Furnished,Apartment,Yes,587094
+2990.21507,4,1996,Indore,Corner Plot,Furnished,Apartment,No,662008
+2454.498373,3,2012,Delhi,Corner Plot,Unfurnished,Independent House,Yes,678874
+1148.011416,5,1997,Prayagraj,Gated Society,Unfurnished,Villa,No,453967
+1473.871736,7,1989,Delhi,Main Road,Semi-Furnished,Duplex,Yes,648863
+2954.807788,2,2006,Delhi,Gated Society,Furnished,Apartment,No,744065
+2320.275701,6,2015,Gurugram,Gated Society,Semi-Furnished,Independent House,No,722931
+1845.648651,6,1998,Delhi,Highway Facing,Furnished,Apartment,Yes,641824
+2384.771809,3,2012,Jaipur,Residential Lane,Semi-Furnished,Independent House,No,598958
+1915.148259,2,1989,Gurugram,Main Road,Semi-Furnished,Independent House,Yes,581398
+2968.236468,7,1986,Jaipur,Corner Plot,Unfurnished,Independent House,No,713664
+2652.843884,4,2018,Kanpur,Main Road,Unfurnished,Apartment,No,631656
+2739.851057,6,2013,Indore,Main Road,Semi-Furnished,Apartment,Yes,715326
+2411.235997,6,1986,Gurugram,Highway Facing,Furnished,Apartment,No,646834
+1594.311452,2,1987,Gurugram,Gated Society,Unfurnished,Independent House,No,473554
+2538.85866,3,2012,Kanpur,Gated Society,Semi-Furnished,Independent House,No,633278
+2632.318676,2,1998,Gurugram,Main Road,Furnished,Independent House,No,691849
+2267.378024,4,2001,Delhi,Main Road,Semi-Furnished,Duplex,No,722050
+2639.830172,7,2010,Kanpur,Residential Lane,Semi-Furnished,Apartment,No,636412
+2668.271151,7,2002,Gurugram,Highway Facing,Furnished,Apartment,No,716306
+2097.202183,2,2001,Noida,Corner Plot,Furnished,Apartment,Yes,564036
+1002.825236,2,2002,Jaipur,Residential Lane,Semi-Furnished,Independent House,Yes,337270
+1095.837588,6,1990,Indore,Residential Lane,Furnished,Independent House,No,415465
+2473.117987,6,2006,Kanpur,Corner Plot,Unfurnished,Apartment,Yes,603065
+2638.616312,7,2014,Gurugram,Main Road,Semi-Furnished,Independent House,Yes,823165
+2883.083829,6,1990,Lucknow,Highway Facing,Furnished,Independent House,No,731411
+3215.839182,7,2022,Gurugram,Corner Plot,Furnished,Independent House,No,920438
+,6,2007,Noida,Gated Society,Semi-Furnished,Apartment,No,521253
+2160.57928,7,2019,Delhi,Gated Society,Unfurnished,Duplex,No,723076
+2404.13023,2,2018,Gurugram,Main Road,Semi-Furnished,Independent House,Yes,683072
+2134.081994,,2021,Kanpur,Highway Facing,Furnished,Villa,Yes,661582
+,5,2009,Delhi,Residential Lane,Unfurnished,Apartment,No,649645
+1827.972839,7,2017,Jaipur,Main Road,Furnished,Duplex,No,598689
+2656.17307,4,2023,Kanpur,Highway Facing,Semi-Furnished,Apartment,Yes,607511
+2386.173024,6,2017,Jaipur,Highway Facing,Unfurnished,Apartment,No,578836
+1599.735259,2,1988,Noida,Gated Society,Unfurnished,Apartment,No,387446
+2907.83623,6,2013,Lucknow,Gated Society,Semi-Furnished,Independent House,Yes,806607
+2427.389197,4,2011,Gurugram,Residential Lane,Furnished,Apartment,No,673112
+1276.297395,4,1996,Indore,Residential Lane,Semi-Furnished,Apartment,No,315242
+3180.18999,6,1992,Delhi,Corner Plot,Semi-Furnished,Apartment,No,804859
+2018.899461,3,2020,Delhi,Main Road,Unfurnished,Independent House,Yes,631937
+1269.144454,2,1993,Delhi,Gated Society,Semi-Furnished,Apartment,Yes,472178
+2778.480907,7,1986,Gurugram,Residential Lane,Unfurnished,Independent House,No,717074
+2459.428458,5,1990,Delhi,Main Road,Unfurnished,Apartment,Yes,636161
+1830.142683,2,1991,Delhi,Main Road,Semi-Furnished,Duplex,No,546034
+1463.204326,2,2016,Jaipur,Highway Facing,Furnished,Duplex,Yes,504457
+1884.485896,6,2013,Indore,Highway Facing,Furnished,Villa,No,640564
+2963.720248,5,2014,Jaipur,Corner Plot,Furnished,Duplex,No,745201
+2117.567118,3,2003,Lucknow,Main Road,Furnished,Apartment,No,533862
+2714.623116,2,1987,Gurugram,Gated Society,Semi-Furnished,Apartment,Yes,699320
+2729.53488,5,1992,Indore,Highway Facing,Unfurnished,Duplex,Yes,693222
+2048.304739,3,1991,Delhi,Gated Society,Furnished,Apartment,No,571059
+1281.621455,3,1985,Lucknow,Highway Facing,Furnished,Apartment,No,365456
+1343.853955,6,2021,Kanpur,Main Road,Semi-Furnished,Apartment,No,435202
+2734.50248,2,2001,Indore,Residential Lane,Semi-Furnished,Apartment,No,559053
+2293.975991,5,2010,Prayagraj,Residential Lane,Furnished,Apartment,No,553604
+1303.723858,2,2021,Noida,Corner Plot,Furnished,Apartment,No,425004
+2340.816354,5,1991,Delhi,Residential Lane,Semi-Furnished,Villa,No,746435
+1179.867808,7,1985,Lucknow,Highway Facing,Furnished,Apartment,Yes,404564
+1692.221715,2,2023,Kanpur,Residential Lane,Semi-Furnished,Duplex,No,438470
+2172.605252,3,2020,Gurugram,Highway Facing,Unfurnished,Villa,No,647925
+1935.932576,,1993,Delhi,Main Road,Semi-Furnished,Independent House,No,601040
+1761.67671,3,2021,Gurugram,Residential Lane,Furnished,Apartment,Yes,549138
+2565.055468,2,1996,Indore,Highway Facing,Semi-Furnished,Villa,No,670293
+2907.447737,7,1992,Delhi,Corner Plot,Furnished,Duplex,Yes,912260
+2436.290021,3,2005,Jaipur,Gated Society,Semi-Furnished,Apartment,No,588271
+2092.198553,6,2002,Lucknow,Highway Facing,Furnished,Villa,No,660047
+,4,2018,Gurugram,Residential Lane,Semi-Furnished,Apartment,No,584395
+2426.913718,,2006,Noida,Main Road,Unfurnished,Independent House,No,643510
+2245.256194,4,2023,Prayagraj,Main Road,Semi-Furnished,Independent House,Yes,652525
+2705.905131,,1994,Jaipur,Corner Plot,Semi-Furnished,Apartment,Yes,610312
+2034.801732,7,1988,Prayagraj,Main Road,Furnished,Duplex,No,595978
+1675.597456,4,2021,Gurugram,Corner Plot,Semi-Furnished,Duplex,No,573055
+2172.79496,6,2018,Lucknow,Corner Plot,Furnished,Duplex,Yes,716450
+2841.906603,6,1994,Delhi,Residential Lane,Furnished,Duplex,Yes,880323
+2457.709921,7,2007,Gurugram,Corner Plot,Unfurnished,Apartment,No,667335
+2981.277336,7,2001,Indore,Highway Facing,Furnished,Apartment,Yes,753756
+3496.557001,7,2021,Delhi,Highway Facing,Furnished,Independent House,Yes,1031661
+2162.037617,2,1989,Noida,Corner Plot,,Apartment,No,496390
+2181.780165,7,2021,Prayagraj,Corner Plot,Furnished,Duplex,Yes,740422
+700,6,1987,Noida,Highway Facing,Unfurnished,Independent House,No,310136
+2805.911193,5,2017,Indore,Main Road,Furnished,Apartment,Yes,735009
+1689.451802,6,2015,Noida,Highway Facing,Furnished,Duplex,No,623800
+1754.073244,3,2016,Gurugram,Main Road,Semi-Furnished,Apartment,Yes,557654
+2078.341468,4,2014,Delhi,Residential Lane,Furnished,Independent House,Yes,689116
+2296.550206,3,1988,Delhi,Corner Plot,Furnished,Independent House,No,657932
+2857.275646,4,2002,Indore,Gated Society,Semi-Furnished,Independent House,No,686692
+1262.202332,6,1995,Jaipur,Highway Facing,Furnished,Apartment,No,428089
+2137.85452,5,2001,Delhi,Gated Society,Semi-Furnished,Apartment,Yes,644165
+2334.090393,7,1995,Delhi,Corner Plot,Furnished,Independent House,No,728983
+1184.275161,3,2022,Prayagraj,Highway Facing,Furnished,Independent House,Yes,422769
+2722.776515,4,1992,Delhi,Main Road,Furnished,Apartment,Yes,739726
+3094.585709,4,2013,Prayagraj,Corner Plot,Unfurnished,Apartment,Yes,642562
+3100.962012,5,2020,Indore,Main Road,Furnished,Independent House,No,833192
+2689.905946,4,1997,Prayagraj,Residential Lane,Semi-Furnished,Apartment,Yes,571063
+2868.335255,5,2022,Gurugram,Highway Facing,Furnished,Apartment,No,775458
+3521.114455,5,2017,Indore,Residential Lane,Furnished,Independent House,No,852194
+2064.05244,2,1997,Kanpur,Residential Lane,Unfurnished,Apartment,Yes,421054
+2705.616578,3,2024,Gurugram,Highway Facing,Furnished,Duplex,No,779556
+2232.796703,3,1996,Noida,Corner Plot,Unfurnished,Apartment,No,503659
+2262.993351,,2006,Gurugram,Main Road,Furnished,Apartment,No,626841
+2557.654866,5,1997,Gurugram,Residential Lane,Furnished,Independent House,No,739390
+2514.156656,6,2016,Noida,Residential Lane,Semi-Furnished,Apartment,No,664703
+1930.665289,5,1994,Prayagraj,Gated Society,Semi-Furnished,Apartment,No,544813
+2014.8575,6,2015,Indore,Corner Plot,Semi-Furnished,Independent House,No,593006
+2215.728227,3,2016,Noida,Gated Society,Semi-Furnished,Independent House,No,673675
+2924.31896,3,1996,Noida,Gated Society,Semi-Furnished,Apartment,No,702685
+2471.716602,3,1998,Jaipur,Gated Society,,Independent House,No,610801
+2498.980085,7,2023,Noida,Main Road,Semi-Furnished,Duplex,No,771345
+2644.011219,2,2024,Lucknow,Gated Society,Furnished,Apartment,No,628098
+2117.26908,3,2013,Kanpur,Main Road,Semi-Furnished,Apartment,No,516228
+3025.417885,7,2004,Gurugram,Gated Society,Semi-Furnished,Independent House,No,876479
+2588.966426,5,1999,Gurugram,Gated Society,Furnished,Duplex,No,802079
+2023.107275,3,2013,Gurugram,Gated Society,Unfurnished,Apartment,No,538241
+1876.180055,,2004,Indore,Highway Facing,Furnished,Duplex,No,532480
+2703.980221,4,2007,Lucknow,Gated Society,Furnished,Duplex,No,749753
+1797.023695,6,1985,Prayagraj,Gated Society,Unfurnished,Apartment,No,454562
+2143.43571,3,2001,Jaipur,Main Road,,Duplex,No,600736
+2808.039263,4,2015,Prayagraj,Gated Society,Semi-Furnished,Apartment,No,679814
+2388.335271,2,2017,Indore,Gated Society,Unfurnished,Independent House,No,569691
+2510.421643,6,2022,Kanpur,Highway Facing,Unfurnished,Villa,No,722076
+2036.340073,4,1985,Kanpur,Main Road,Furnished,Independent House,Yes,597304
+2844.36929,4,2013,Delhi,Main Road,Semi-Furnished,Apartment,No,773697
+1546.332303,7,1994,Delhi,Highway Facing,Semi-Furnished,Duplex,No,591557
+2249.284488,5,2020,Indore,Residential Lane,Semi-Furnished,Independent House,No,581606
+2051.17006,,1999,Gurugram,Highway Facing,Furnished,Duplex,Yes,728523
+,6,1988,Lucknow,Highway Facing,Unfurnished,Independent House,No,477505
+1744.089556,7,2002,Prayagraj,Corner Plot,Unfurnished,Independent House,No,500679
+1902.822799,2,2020,Kanpur,Main Road,Semi-Furnished,Independent House,No,510752
+,,1993,Jaipur,Residential Lane,Furnished,Apartment,No,606210
+2297.081202,2,2010,Lucknow,Residential Lane,,Duplex,No,573252
+2765.861062,4,2020,Jaipur,Residential Lane,Furnished,Apartment,Yes,708111
+2155.857525,6,2001,Prayagraj,Highway Facing,Semi-Furnished,Independent House,Yes,627133
+1893.379518,6,2009,Gurugram,Gated Society,Semi-Furnished,Apartment,No,571752
+3139.700503,4,2023,Kanpur,Highway Facing,Semi-Furnished,Apartment,No,691921
+2293.018228,5,2024,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,585872
+2839.057981,6,1986,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,616503
+3129.300349,5,1987,Noida,Corner Plot,Semi-Furnished,Independent House,Yes,825744
+2056.725791,7,2020,Prayagraj,Main Road,Furnished,Apartment,No,620294
+2887.027353,5,2001,Indore,Corner Plot,Semi-Furnished,Apartment,No,650663
+,7,2005,Kanpur,Residential Lane,Unfurnished,Duplex,Yes,568631
+2285.485032,5,2018,Lucknow,Main Road,Furnished,Apartment,Yes,690971
+1354.951543,2,1993,Gurugram,Corner Plot,Furnished,Duplex,No,448660
+2400.915546,5,2021,Lucknow,Main Road,Furnished,Villa,No,781802
+2705.492066,7,1998,Indore,Corner Plot,Unfurnished,Apartment,No,624964
+2591.749319,3,2009,Delhi,Corner Plot,Semi-Furnished,Apartment,No,660279
+2357.804586,7,2009,Noida,Gated Society,Furnished,Apartment,No,705924
+2231.157459,5,1997,Lucknow,Residential Lane,Furnished,Duplex,No,626943
+1288.961924,4,1989,Noida,Main Road,Furnished,Duplex,No,506229
+2281.767101,2,2007,Gurugram,Gated Society,Furnished,Apartment,Yes,645451
+2366.347343,5,2017,Jaipur,Main Road,Furnished,Apartment,No,618440
+2469.849922,7,2023,Prayagraj,Corner Plot,Semi-Furnished,Independent House,No,664271
+2409.197192,7,1998,Prayagraj,Gated Society,Furnished,Apartment,Yes,637727
+1984.639357,6,1994,Indore,Gated Society,Furnished,Apartment,No,556562
+5505.772234,5,1995,Lucknow,Gated Society,Semi-Furnished,Apartment,No,1284263.922
+2842.519747,4,2013,Kanpur,Residential Lane,Unfurnished,Duplex,No,651321
+2828.27955,5,2013,Noida,Residential Lane,Furnished,Villa,No,817116
+2189.908039,4,2006,Jaipur,Main Road,Furnished,Independent House,No,638196
+2452.984679,2,2007,Prayagraj,Main Road,Semi-Furnished,Independent House,No,565138
+2132.342342,2,1989,Indore,Residential Lane,Semi-Furnished,Duplex,No,506117
+1864.01056,3,1989,Kanpur,Residential Lane,Furnished,Apartment,No,440623
+2533.922105,3,1999,Delhi,Corner Plot,Semi-Furnished,Villa,Yes,812307
+2450.738275,7,1994,Lucknow,Highway Facing,Unfurnished,Independent House,No,667703
+3040.657635,5,2018,Jaipur,Main Road,Unfurnished,Apartment,Yes,746659
+1625.354943,5,2009,Lucknow,Corner Plot,Furnished,Apartment,Yes,469769
+2369.073684,4,2016,Jaipur,Main Road,Furnished,Independent House,No,675517
+1517.274551,7,1992,Kanpur,Corner Plot,Furnished,Apartment,No,458809
+1744.345477,5,2013,Noida,Gated Society,Semi-Furnished,Apartment,No,558550
+2192.638461,5,1997,Prayagraj,Gated Society,Semi-Furnished,Independent House,No,600130
+2289.468499,2,2021,Noida,Residential Lane,Furnished,Apartment,Yes,597091
+2085.037208,3,2018,Noida,Gated Society,Semi-Furnished,Independent House,Yes,644197
+,6,1993,Kanpur,Residential Lane,Unfurnished,Apartment,No,418266
+1768.305928,3,2004,Gurugram,Highway Facing,Unfurnished,Apartment,No,464564
+3149.830118,7,2019,Kanpur,Gated Society,Furnished,Apartment,Yes,837376
+1971.093298,2,1991,Kanpur,Highway Facing,Furnished,Independent House,No,461943
+3223.723578,7,2008,Noida,Highway Facing,Furnished,Villa,No,981429
+1749.990614,7,2008,Kanpur,Residential Lane,Semi-Furnished,Villa,No,592138
+700,5,2014,Jaipur,Main Road,Furnished,Apartment,No,340017
+3032.397359,4,2017,Lucknow,Corner Plot,Unfurnished,Apartment,No,677986
+2831.075132,4,2023,Indore,Gated Society,Furnished,Apartment,No,708317
+2277.487436,6,2003,Kanpur,Residential Lane,Unfurnished,Villa,No,605316
+2482.480059,3,1989,Noida,Corner Plot,Furnished,Duplex,No,660858
+2254.948049,5,1990,Kanpur,Corner Plot,Furnished,Apartment,Yes,579518
+2170.44052,6,2014,Noida,Corner Plot,Furnished,Apartment,No,647913
+1611.912173,2,1997,Delhi,Gated Society,Unfurnished,Apartment,No,417087
+2779.181588,6,1988,Gurugram,Residential Lane,Semi-Furnished,Independent House,No,768052
+2837.885185,7,2021,Noida,Gated Society,Semi-Furnished,Apartment,No,779435
+1466.763479,2,2005,Delhi,Gated Society,Furnished,Apartment,No,530484
+1795.974633,7,2017,Prayagraj,Gated Society,Unfurnished,Independent House,No,543491
+2297.042855,2,2018,Kanpur,Residential Lane,Semi-Furnished,Apartment,Yes,523061
+1953.39088,4,2023,Indore,Corner Plot,Semi-Furnished,Duplex,No,606991
+2192.518441,6,2004,Lucknow,Corner Plot,Semi-Furnished,Apartment,No,584486
+2001.739628,2,2024,Noida,Main Road,Furnished,Apartment,No,564119
+2685.710377,2,2019,Lucknow,Main Road,Semi-Furnished,Apartment,Yes,639627
+1453.428372,5,1994,Lucknow,Corner Plot,Unfurnished,Apartment,Yes,398487
+2777.309798,7,2024,Lucknow,Corner Plot,Semi-Furnished,Apartment,No,684666
+1338.88047,4,2024,Lucknow,Main Road,Furnished,Apartment,No,454958
+2629.989621,6,1988,Kanpur,Highway Facing,Unfurnished,Villa,No,699816
+,6,2005,Noida,Corner Plot,Unfurnished,Duplex,No,697713
+1725.943792,6,2009,Lucknow,Main Road,Unfurnished,Apartment,Yes,507814
+2361.366676,5,2013,Kanpur,Residential Lane,Furnished,Villa,No,696897
+1469.634917,3,2006,Lucknow,Residential Lane,Furnished,Apartment,No,406431
+2333.997875,4,2018,Jaipur,Residential Lane,Semi-Furnished,Independent House,No,599056
+1364.853081,6,1995,Gurugram,Highway Facing,Furnished,Independent House,No,544063
+2025.334741,5,2023,Lucknow,Corner Plot,Unfurnished,Apartment,Yes,534602
+2076.659663,3,2009,Jaipur,Gated Society,Furnished,Apartment,Yes,574704
+2482.649317,5,2001,Gurugram,Corner Plot,Semi-Furnished,Apartment,No,646509
+2349.983786,4,2011,Kanpur,Corner Plot,Semi-Furnished,Apartment,No,557104
+2919.168346,4,2004,Indore,Residential Lane,Unfurnished,Apartment,Yes,636259
+2497.478072,5,2004,Kanpur,Main Road,Furnished,Villa,No,751072
+2562.659322,7,2022,Lucknow,Main Road,Furnished,Apartment,Yes,731122
+1163.139971,4,2019,Kanpur,Main Road,Furnished,Duplex,Yes,477632
+2435.572129,7,2006,Jaipur,Gated Society,Unfurnished,Apartment,No,648987
+1305.6939,7,2005,Prayagraj,Corner Plot,Furnished,Independent House,No,464099
+2299.872765,2,1988,Noida,Main Road,Furnished,Independent House,No,638942
+1583.767537,4,2010,Kanpur,Gated Society,Semi-Furnished,Independent House,Yes,519099
+1642.069618,5,2012,Lucknow,Gated Society,Unfurnished,Apartment,Yes,506464
+2085.802921,,1985,Kanpur,Main Road,Furnished,Apartment,No,428945
+2643.610297,4,1985,Prayagraj,Main Road,Semi-Furnished,Independent House,No,620559
+1491.628936,2,1997,Delhi,Main Road,Furnished,Apartment,No,412927
+2029.935008,6,1993,Delhi,Main Road,Unfurnished,Independent House,No,610049
+2307.456406,6,1995,Gurugram,Gated Society,Unfurnished,Apartment,Yes,679206
+3014.312431,6,1996,Delhi,Gated Society,Semi-Furnished,Duplex,No,857208
+2578.32483,7,2007,Jaipur,Main Road,Semi-Furnished,Independent House,No,722452
+2052.308144,5,2002,Jaipur,Corner Plot,Semi-Furnished,Duplex,Yes,606174
+1279.055655,2,2023,Prayagraj,Main Road,Semi-Furnished,Duplex,No,392299
+2230.566558,4,1993,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,554545
+1570.950586,2,1996,Delhi,Gated Society,Semi-Furnished,Duplex,No,540125
+1886.419766,2,2007,Kanpur,Corner Plot,Semi-Furnished,Duplex,No,501488
+6170.583006,2,2022,Lucknow,Corner Plot,Unfurnished,Villa,No,1265986.684
+1199.380639,3,2020,Indore,Residential Lane,Furnished,Apartment,No,340411
+1669.57766,6,1994,Lucknow,Highway Facing,Furnished,Apartment,No,462381
+1274.108994,7,1989,Indore,Corner Plot,Semi-Furnished,Independent House,No,420434
+2215.3733,6,1988,Kanpur,Highway Facing,Semi-Furnished,Apartment,Yes,562495
+1207.920218,6,2021,Prayagraj,Highway Facing,Unfurnished,Independent House,No,398436
+1353.183414,7,1988,Delhi,Main Road,Semi-Furnished,Apartment,No,461020
+2561.064667,4,2018,Gurugram,Residential Lane,Furnished,Apartment,No,664358
+1111.385104,5,2008,Prayagraj,Residential Lane,Semi-Furnished,Apartment,No,329712
+2805.527799,3,2003,Prayagraj,Corner Plot,Unfurnished,Independent House,Yes,688445
+3115.44214,7,1996,Kanpur,Highway Facing,Semi-Furnished,Apartment,Yes,774294
+2001.095097,3,1996,Gurugram,Highway Facing,Semi-Furnished,Apartment,No,544019
+2171.389171,3,2020,Delhi,Highway Facing,Semi-Furnished,Independent House,No,672398
+2780.831245,7,2011,Gurugram,Corner Plot,Unfurnished,Independent House,No,775968
+1637.224729,7,1987,Prayagraj,Gated Society,Unfurnished,Apartment,No,423201
+3276.385002,4,1987,Noida,Gated Society,Semi-Furnished,Villa,No,879204
+1708.107548,2,2014,Gurugram,Residential Lane,Semi-Furnished,Villa,Yes,595748
+2598.802683,2,1999,Indore,Gated Society,Unfurnished,Villa,Yes,716676
+2392.044897,2,2018,Indore,Corner Plot,Semi-Furnished,Apartment,Yes,583847
+1764.169043,5,1997,Noida,Gated Society,Unfurnished,Independent House,No,542807
+1945.202074,3,2000,Noida,Residential Lane,Semi-Furnished,Independent House,No,525186
+2434.5727,4,1992,Indore,Highway Facing,Furnished,Independent House,No,607920
+2294.666755,,1997,Prayagraj,Highway Facing,Semi-Furnished,Apartment,No,581487
+2204.380355,7,1994,Indore,Corner Plot,Semi-Furnished,Independent House,No,627455
+1339.297647,6,2008,Kanpur,Corner Plot,Furnished,Villa,No,536364
+2185.934128,7,2018,Noida,Highway Facing,Furnished,Apartment,Yes,657825
+2588.749586,7,2022,Indore,Residential Lane,Semi-Furnished,Apartment,No,669520
+2301.695449,3,1988,Jaipur,Highway Facing,Semi-Furnished,Duplex,No,552552
+2414.755667,6,2001,Noida,Gated Society,Semi-Furnished,Independent House,No,712198
+2487.234025,6,2021,Lucknow,Highway Facing,Unfurnished,Independent House,No,640407
+1860.291458,4,2003,Noida,Main Road,Semi-Furnished,Duplex,No,575363
+,3,1998,Delhi,Corner Plot,Unfurnished,Apartment,No,277504
+1009.407162,3,2000,Kanpur,Highway Facing,Semi-Furnished,Independent House,No,339788
+2556.475498,6,2018,Indore,Corner Plot,Semi-Furnished,Apartment,No,651971
+1545.823459,7,1985,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,457816
+2222.505546,5,1994,Prayagraj,Residential Lane,Furnished,Apartment,Yes,538612
+2080.080267,7,2001,Lucknow,Gated Society,Semi-Furnished,Duplex,No,604316
+3309.84938,5,2012,Delhi,Corner Plot,Unfurnished,Apartment,No,806467
+2069.267681,7,1991,Prayagraj,Main Road,Unfurnished,Independent House,Yes,589328
+1518.491108,4,2020,Lucknow,Highway Facing,Furnished,Duplex,No,486913
+2568.620944,6,2006,Indore,Highway Facing,Semi-Furnished,Duplex,Yes,735937
+1859.036197,5,2007,Lucknow,Residential Lane,Unfurnished,Apartment,No,487759
+3369.539574,4,1999,Kanpur,Main Road,Furnished,Independent House,No,804911
+2658.094631,2,1994,Gurugram,Highway Facing,Unfurnished,Independent House,No,635589
+2817.575175,5,2022,Lucknow,Main Road,Unfurnished,Independent House,No,722279
+1601.005936,3,2022,Jaipur,Gated Society,Unfurnished,Duplex,No,500176
+2560.05979,7,2002,Kanpur,Gated Society,Semi-Furnished,Independent House,No,707935
+2168.31562,6,2017,Gurugram,Gated Society,Semi-Furnished,Apartment,Yes,712315
+1781.071487,5,2019,Indore,Highway Facing,Unfurnished,Independent House,No,507771
+1966.922974,4,2007,Kanpur,Residential Lane,Unfurnished,Apartment,Yes,436734
+2434.237963,6,1992,Lucknow,Main Road,Semi-Furnished,Villa,No,715307
+2368.307919,6,1994,Lucknow,Corner Plot,Furnished,Independent House,No,669879
+1817.380742,3,1992,Kanpur,Gated Society,Furnished,Apartment,No,440413
+4122.732784,2,1987,Prayagraj,Highway Facing,Furnished,Apartment,No,783551
+2630.560441,6,2013,Gurugram,Residential Lane,Semi-Furnished,Apartment,No,663785
+2207.850187,4,1989,Delhi,Residential Lane,Semi-Furnished,Apartment,Yes,581842
+3125.950574,4,2005,Noida,Highway Facing,Furnished,Apartment,No,742183
+2095.983785,5,2007,Jaipur,Residential Lane,Furnished,Independent House,No,608667
+1897.103342,7,2012,Gurugram,Corner Plot,Furnished,Duplex,No,665807
+1703.161083,4,2024,Lucknow,Residential Lane,Unfurnished,Apartment,Yes,455563
+2234.748575,2,2007,Lucknow,Gated Society,Furnished,Apartment,Yes,611642
+2579.63024,6,1994,Jaipur,Gated Society,Furnished,Apartment,Yes,662883
+2869.555463,,1997,Noida,Gated Society,Semi-Furnished,Villa,No,875090
+1946.855129,4,2020,Indore,Gated Society,Semi-Furnished,Apartment,No,504996
+1490.507603,3,1994,Noida,Main Road,Furnished,Independent House,Yes,491501
+967.6294175,5,2009,Prayagraj,Main Road,Semi-Furnished,Independent House,Yes,396485
+2533.697683,3,2024,Jaipur,Highway Facing,Unfurnished,Apartment,Yes,600368
+2087.291915,2,2013,Kanpur,Corner Plot,Unfurnished,Duplex,Yes,543691
+2782.013876,6,1985,Noida,Corner Plot,Unfurnished,Independent House,No,719639
+2038.318179,5,2019,Noida,Main Road,Unfurnished,Apartment,Yes,592208
+2625.772304,4,1990,Delhi,Highway Facing,Semi-Furnished,Apartment,No,632613
+1629.676947,7,2019,Indore,Highway Facing,Unfurnished,Villa,No,580074
+2779.770772,3,2006,Prayagraj,Highway Facing,Unfurnished,Duplex,No,659643
+,5,2017,Kanpur,Gated Society,Furnished,Apartment,No,478874
+1362.702448,2,2012,Kanpur,Highway Facing,Semi-Furnished,Apartment,No,348115
+2880.664626,4,1986,Jaipur,Corner Plot,Unfurnished,Villa,Yes,735024
+1892.5529,4,2013,Prayagraj,Residential Lane,Unfurnished,Duplex,Yes,531981
+,3,2001,Noida,Gated Society,Unfurnished,Independent House,Yes,623888
+2387.620022,2,2011,Jaipur,Highway Facing,Semi-Furnished,Independent House,No,557996
+2608.512479,3,2022,Gurugram,Highway Facing,Furnished,Duplex,No,773899
+1899.325953,5,2003,Jaipur,Residential Lane,Furnished,Apartment,No,496189
+2854.451268,7,2020,Noida,Gated Society,Furnished,Apartment,Yes,866047
+3385.433012,4,2006,Prayagraj,Highway Facing,Unfurnished,Independent House,No,722182
+1923.118421,2,1988,Delhi,Corner Plot,Unfurnished,Apartment,No,462812
+2616.847968,7,2022,Noida,Highway Facing,Semi-Furnished,Apartment,Yes,774097
+2374.09718,5,1999,Gurugram,Main Road,Semi-Furnished,Duplex,No,704351
+2345.118436,2,2004,Jaipur,Main Road,Unfurnished,Apartment,Yes,511282
+1664.786552,7,2017,Noida,Residential Lane,Unfurnished,Apartment,No,465668
+1194.889105,7,1987,Delhi,Highway Facing,Semi-Furnished,Apartment,No,441893
+2575.830946,7,2009,Lucknow,Corner Plot,,Duplex,No,693482
+2749.631341,4,2022,Lucknow,Residential Lane,Semi-Furnished,Duplex,No,698466
+1936.521918,2,1997,Indore,Gated Society,Semi-Furnished,Apartment,No,423451
+1825.476908,4,1998,Delhi,Main Road,Unfurnished,Apartment,Yes,526554
+3018.24987,5,2005,Gurugram,Gated Society,Unfurnished,Apartment,No,751820
+2142.731715,3,2007,Prayagraj,Residential Lane,Unfurnished,Villa,No,573527
+2501.886109,6,2020,Delhi,Residential Lane,Furnished,Apartment,No,716750
+2550.843206,,2019,Delhi,Gated Society,Semi-Furnished,Villa,No,881591
+2431.05197,2,2006,Jaipur,Gated Society,Semi-Furnished,Independent House,No,627913
+2077.787435,6,2001,Prayagraj,Residential Lane,Semi-Furnished,Villa,No,575031
+2405.852999,7,2001,Indore,Residential Lane,Unfurnished,Apartment,No,532360
+2815.384891,3,1993,Gurugram,Highway Facing,Furnished,Independent House,Yes,793980
+2342.187053,2,2017,Gurugram,Highway Facing,Semi-Furnished,Independent House,No,632082
+2200.245022,4,1997,Noida,Gated Society,Semi-Furnished,Apartment,No,560495
+1691.016456,6,2023,Noida,Main Road,Furnished,Apartment,Yes,609180
+2127.352147,2,2023,Delhi,Main Road,Unfurnished,Independent House,No,614305
+2715.565132,4,2016,Indore,Main Road,Semi-Furnished,Independent House,No,684181
+2076.341573,7,2000,Lucknow,Highway Facing,Furnished,Independent House,Yes,684000
+2932.466334,2,1999,Prayagraj,Main Road,Unfurnished,Duplex,No,648234
+2048.363794,,2024,Lucknow,Corner Plot,Semi-Furnished,Apartment,No,505238
+2860.043426,5,2013,Prayagraj,Highway Facing,Furnished,Apartment,No,664154
+1856.610036,7,1988,Lucknow,Highway Facing,,Independent House,No,535068
+2085.075215,5,2015,Prayagraj,Main Road,Semi-Furnished,Apartment,No,564296
+2863.603565,7,2023,Lucknow,Main Road,Furnished,Apartment,No,808151
+1759.460564,5,1993,Kanpur,Gated Society,Furnished,Apartment,No,514018
+1506.092992,3,2020,Prayagraj,Residential Lane,Furnished,Apartment,No,428913
+1757.218434,4,2024,Noida,Corner Plot,Semi-Furnished,Independent House,No,588997
+3342.558998,3,1996,Jaipur,Residential Lane,Unfurnished,Apartment,No,690644
+3096.867277,4,2022,Prayagraj,Main Road,Semi-Furnished,Villa,No,863792
+1229.293789,4,2020,Noida,Gated Society,Unfurnished,Villa,No,530984
+1816.7755,5,2021,Delhi,Corner Plot,,Independent House,No,656896
+1891.116131,4,1999,Indore,Residential Lane,Unfurnished,Apartment,No,387854
+2237.394999,6,1991,Kanpur,Residential Lane,Unfurnished,Apartment,No,467369
+1810.988641,4,2004,Prayagraj,Highway Facing,,Duplex,No,475835
+2146.46475,2,2019,Gurugram,Gated Society,Unfurnished,Independent House,Yes,634895
+2794.9717,4,2006,Kanpur,Residential Lane,Semi-Furnished,Apartment,Yes,614875
+2219.319668,3,2019,Prayagraj,Gated Society,Semi-Furnished,Apartment,No,520116
+2306.46317,4,1986,Gurugram,Main Road,Furnished,Independent House,No,646715
+2402.207111,4,1989,Lucknow,Residential Lane,Semi-Furnished,Villa,No,606197
+2580.495402,4,2016,Noida,Highway Facing,Semi-Furnished,Apartment,No,672642
+3279.422955,2,1994,Delhi,Corner Plot,Semi-Furnished,Apartment,No,742963
+2251.19393,2,2013,Noida,Corner Plot,Semi-Furnished,Apartment,No,539797
+2101.467633,,2004,Gurugram,Corner Plot,Semi-Furnished,Apartment,No,592040
+,7,1986,Noida,Highway Facing,Semi-Furnished,Apartment,No,590573
+1755.910529,5,2000,Gurugram,Gated Society,Unfurnished,Independent House,No,563382
+2867.051542,2,2019,Prayagraj,Residential Lane,Semi-Furnished,Independent House,Yes,669607
+2520.191874,6,2014,Lucknow,Gated Society,Unfurnished,Villa,Yes,794063
+2086.777313,3,1991,Noida,Highway Facing,Semi-Furnished,Apartment,Yes,523582
+1263.782704,4,1992,Indore,Corner Plot,Unfurnished,Apartment,Yes,334950
+1455.14597,5,2021,Lucknow,Residential Lane,Furnished,Duplex,Yes,528270
+1145.04522,5,2016,Indore,Residential Lane,Semi-Furnished,Apartment,Yes,380806
+1415.491593,7,2007,Jaipur,Residential Lane,Unfurnished,Apartment,Yes,454653
+1547.776699,6,2009,Gurugram,Corner Plot,Unfurnished,Duplex,No,507405
+9022.275608,6,2001,Indore,Corner Plot,Furnished,Independent House,No,1396460.448
+3358.209154,5,2022,Jaipur,Main Road,Unfurnished,Apartment,No,758201
+1910.610706,2,2016,Prayagraj,Gated Society,Unfurnished,Apartment,Yes,436953
+3247.275124,3,1998,Lucknow,Corner Plot,Semi-Furnished,Apartment,No,714977
+1709.221035,7,2012,Gurugram,Corner Plot,Semi-Furnished,Apartment,Yes,597697
+2317.399161,7,1992,Kanpur,Main Road,Unfurnished,Apartment,No,566849
+2881.030867,6,1989,Delhi,Main Road,Furnished,Independent House,Yes,840400
+3591.260478,5,1997,Noida,Residential Lane,Furnished,Apartment,No,843466
+1777.91845,2,1999,Indore,Residential Lane,Furnished,Duplex,Yes,498850
+2278.150735,4,2010,Prayagraj,Gated Society,Semi-Furnished,Villa,No,686412
+2175.391251,3,2001,Prayagraj,Residential Lane,Semi-Furnished,Villa,No,560119
+,4,1999,Noida,Corner Plot,Semi-Furnished,Apartment,No,477283
+2230.984958,5,1993,Delhi,Corner Plot,Furnished,Apartment,No,622559
+1886.591889,2,1992,Kanpur,Corner Plot,Semi-Furnished,Villa,No,525318
+2986.01436,4,2015,Indore,Residential Lane,Semi-Furnished,Independent House,No,699413
+2103.43983,3,2022,Indore,Highway Facing,Semi-Furnished,Villa,Yes,670455
+1813.499591,2,2005,Jaipur,Highway Facing,Semi-Furnished,Independent House,No,447745
+1597.511598,5,1986,Prayagraj,Highway Facing,Semi-Furnished,Apartment,No,392781
+2061.466931,6,2016,Lucknow,Corner Plot,Unfurnished,Apartment,No,538148
+1867.810656,4,2012,Noida,Main Road,Unfurnished,Apartment,No,495874
+2552.263887,5,2011,Indore,Corner Plot,Furnished,Apartment,Yes,666378
+2666.956002,4,2008,Noida,Main Road,Unfurnished,Villa,No,756358
+2675.859234,6,1987,Indore,Main Road,Furnished,Apartment,No,654455
+1678.095914,,2007,Lucknow,Corner Plot,Unfurnished,Apartment,No,422310
+1592.573797,2,1986,Noida,Gated Society,Semi-Furnished,Villa,Yes,594695
+2393.877733,2,2022,Noida,Residential Lane,Furnished,Independent House,No,637432
+2833.617272,,1989,Gurugram,Corner Plot,Semi-Furnished,Independent House,No,736450
+3250.180259,4,2024,Delhi,Corner Plot,Furnished,Villa,No,975210
+2132.510087,6,2021,Prayagraj,Gated Society,Furnished,Duplex,Yes,712933
+2583.202,4,2014,Lucknow,Corner Plot,Unfurnished,Villa,No,719380
+2415.928715,6,2012,Delhi,Residential Lane,Semi-Furnished,Apartment,No,698296
+1972.516957,6,1985,Jaipur,Residential Lane,Semi-Furnished,Villa,No,636031
+2148.500096,6,2000,Jaipur,Main Road,Furnished,Apartment,No,608594
+2162.447308,7,1990,Kanpur,Gated Society,Semi-Furnished,Villa,No,670916
+1807.017007,4,1990,Noida,Main Road,Semi-Furnished,Independent House,No,549409
+2103.319943,7,1990,Noida,Residential Lane,Furnished,Duplex,No,667946
+1958.020398,5,1999,Gurugram,Corner Plot,Semi-Furnished,Independent House,No,605938
+2605.488893,3,2024,Prayagraj,Main Road,Unfurnished,Duplex,No,621939
+3077.82667,7,1998,Jaipur,Corner Plot,Semi-Furnished,Apartment,No,725788
+2254.487992,3,2015,Indore,Highway Facing,Furnished,Apartment,Yes,553496
+959.1272309,6,2000,Noida,Residential Lane,Furnished,Villa,No,488705
+1558.569158,7,2007,Kanpur,Residential Lane,Furnished,Apartment,No,423257
+2201.545784,3,2002,Noida,Main Road,Furnished,Independent House,Yes,691496
+2075.888813,4,1995,Indore,Corner Plot,Furnished,Apartment,No,507119
+2448.385875,7,2019,Lucknow,Highway Facing,Semi-Furnished,Villa,No,751730
+914.2348416,4,1993,Gurugram,Gated Society,Furnished,Apartment,Yes,397161
+963.5214123,5,2018,Indore,Main Road,Unfurnished,Independent House,Yes,426338
+1609.21564,2,2009,Lucknow,Residential Lane,Furnished,Apartment,No,421346
+1606.80461,7,1986,Noida,Residential Lane,Furnished,Apartment,No,479516
+1149.854152,6,2010,Delhi,Corner Plot,Furnished,Apartment,No,502703
+1666.086242,5,2023,Noida,Highway Facing,Semi-Furnished,Independent House,Yes,617520
+1892.147448,7,2024,Prayagraj,Highway Facing,Unfurnished,Apartment,Yes,542070
+2549.613878,6,2010,Lucknow,Gated Society,Semi-Furnished,Apartment,Yes,686053
+1687.337989,6,2021,Jaipur,Corner Plot,Semi-Furnished,Independent House,No,524124
+1841.914799,,2011,Prayagraj,Corner Plot,Semi-Furnished,Apartment,No,473534
+,3,1989,Kanpur,Gated Society,Furnished,Villa,No,542238
+1488.399329,5,1993,Gurugram,Corner Plot,Semi-Furnished,Villa,Yes,585898
+2738.132162,3,1989,Kanpur,Highway Facing,Semi-Furnished,Independent House,Yes,655862
+1992.814764,3,1993,Jaipur,Corner Plot,Unfurnished,Villa,Yes,584193
+2691.124629,6,2015,Prayagraj,Residential Lane,Semi-Furnished,Apartment,No,661336
+3046.857419,7,2023,Gurugram,Main Road,,Apartment,No,866541
+2505.573777,5,2015,Gurugram,Corner Plot,Furnished,Independent House,No,785730
+2563.9842,3,2008,Gurugram,Residential Lane,,Apartment,No,653198
+1646.551855,6,1994,Indore,Main Road,Semi-Furnished,Independent House,No,494788
+2356.063063,5,2011,Noida,Residential Lane,Semi-Furnished,Apartment,No,586710
+2857.371369,5,2023,Delhi,Highway Facing,Semi-Furnished,Apartment,No,765134
+2754.094185,7,1986,Lucknow,Gated Society,Semi-Furnished,Independent House,Yes,744548
+1774.804099,7,2021,Kanpur,Residential Lane,Unfurnished,Apartment,No,469874
+2442.718933,5,2006,Indore,Gated Society,Unfurnished,Villa,No,694893
+2850.228716,3,2022,Indore,Gated Society,Furnished,Apartment,No,718734
+2852.704041,7,2023,Kanpur,Corner Plot,Furnished,Independent House,Yes,842541
+1116.49975,5,2001,Jaipur,Corner Plot,Semi-Furnished,Apartment,No,360127
+3044.331796,4,1998,Delhi,Gated Society,Semi-Furnished,Apartment,Yes,795355
+2843.60929,4,2004,Delhi,Gated Society,Furnished,Independent House,No,821867
+2980.032195,5,2011,Jaipur,Main Road,Furnished,Apartment,Yes,738207
+2980.19224,3,2000,Kanpur,Highway Facing,Unfurnished,Apartment,No,550654
+1750.256488,6,2004,Prayagraj,Highway Facing,Semi-Furnished,Independent House,No,474259
+1765.972104,5,2004,Lucknow,Highway Facing,Semi-Furnished,Independent House,No,514696
+1549.969231,5,2006,Jaipur,Gated Society,Unfurnished,Apartment,No,445485
+2354.060644,3,2010,Prayagraj,Corner Plot,Unfurnished,Independent House,No,519673
+1787.113885,4,2010,Gurugram,Residential Lane,Semi-Furnished,Independent House,No,546875
+1739.259812,3,2012,Indore,Highway Facing,Furnished,Duplex,No,499438
+1815.374986,4,2021,Indore,Main Road,Unfurnished,Villa,Yes,634092
+2544.758511,7,1995,Delhi,Gated Society,Furnished,Independent House,No,810413
+2151.575542,7,2013,Lucknow,Highway Facing,Semi-Furnished,Duplex,No,652572
+1064.273437,6,1999,Delhi,Highway Facing,Furnished,Independent House,No,480821
+1754.031876,3,2022,Delhi,Residential Lane,Semi-Furnished,Apartment,No,550456
+1914.036721,2,1991,Noida,Highway Facing,Furnished,Apartment,No,469069
+1585.23769,2,1988,Noida,Corner Plot,Semi-Furnished,Independent House,Yes,473086
+2316.915717,6,2008,Noida,Corner Plot,Furnished,Independent House,No,719731
+2087.637567,5,2013,Jaipur,Highway Facing,Semi-Furnished,Independent House,Yes,633445
+2478.074083,5,2014,Gurugram,Residential Lane,Semi-Furnished,Villa,Yes,827457
+1811.29863,6,1985,Noida,Residential Lane,Furnished,Independent House,No,579209
+2144.241959,6,2002,Prayagraj,Main Road,Unfurnished,Apartment,No,502894
+2490.684836,2,2005,Prayagraj,Main Road,Semi-Furnished,Apartment,Yes,589388
+2036.706732,5,2002,Gurugram,Residential Lane,Semi-Furnished,Apartment,No,550647
+1865.955062,3,1995,Noida,Corner Plot,Semi-Furnished,Villa,No,591482
+2898.044961,7,2009,Prayagraj,Highway Facing,Unfurnished,Independent House,No,714081
+1460.775454,2,1993,Kanpur,Gated Society,Semi-Furnished,Villa,Yes,518235
+1350.592456,3,1999,Gurugram,Highway Facing,Furnished,Apartment,No,423088
+1903.970098,7,1997,Gurugram,Residential Lane,Furnished,Independent House,No,627069
+3132.647583,2,1998,Delhi,Residential Lane,Furnished,Independent House,No,816228
+1973.497147,4,2000,Indore,Main Road,Furnished,Apartment,No,509604
+1299.317295,2,2007,Jaipur,Gated Society,Unfurnished,Apartment,No,341830
+2737.798552,3,2012,Gurugram,Main Road,Semi-Furnished,Apartment,No,640702
+1644.170979,3,1987,Kanpur,Gated Society,Furnished,Apartment,No,412477
+2472.909553,3,1994,Noida,Corner Plot,Furnished,Apartment,No,596088
+2849.352502,4,2023,Kanpur,Gated Society,Furnished,Apartment,Yes,730792
+2377.635977,7,2003,Jaipur,Corner Plot,Semi-Furnished,Independent House,No,662076
+2439.123536,6,2021,Noida,Highway Facing,Semi-Furnished,Independent House,No,720000
+2826.304126,7,2000,Gurugram,Corner Plot,,Apartment,No,750199
+2479.711233,3,2024,Delhi,Main Road,Semi-Furnished,Apartment,Yes,733298
+2705.837911,7,1997,Jaipur,Main Road,Semi-Furnished,Apartment,No,692892
+1615.178137,4,2024,Jaipur,Residential Lane,Furnished,Independent House,No,498476
+2851.31503,2,2015,Indore,Gated Society,Semi-Furnished,Apartment,Yes,665479
+1907.699997,2,2012,Delhi,Residential Lane,Furnished,Independent House,No,552965
+2746.661366,6,1995,Indore,Highway Facing,Furnished,Independent House,No,694051
+2328.032709,2,2008,Kanpur,Main Road,Furnished,Apartment,No,522624
+2325.991079,2,2000,Gurugram,Highway Facing,Semi-Furnished,Apartment,No,574016
+1744.95805,2,2018,Indore,Residential Lane,Furnished,Independent House,Yes,494215
+1344.216486,2,2023,Noida,Main Road,Furnished,Apartment,No,468688
+2881.771204,5,2024,Delhi,Residential Lane,Unfurnished,Apartment,No,720187
+3467.001314,3,1986,Lucknow,Residential Lane,Semi-Furnished,Apartment,No,666830
+2391.215886,7,1993,Gurugram,Highway Facing,Unfurnished,Apartment,Yes,640032
+1983.958792,6,1994,Delhi,Corner Plot,Semi-Furnished,Independent House,No,607180
+2297.740745,6,2007,Noida,Highway Facing,Unfurnished,Apartment,No,602865
+1955.308109,2,1986,Noida,Corner Plot,Furnished,Independent House,No,517095
+1822.025408,7,2004,Gurugram,Highway Facing,Furnished,Independent House,No,602535
+2466.341662,5,2019,Delhi,Highway Facing,Unfurnished,Apartment,No,665149
+1926.687386,7,2024,Noida,Corner Plot,Semi-Furnished,Independent House,No,643117
+2629.069303,4,1994,Delhi,Residential Lane,Unfurnished,Independent House,No,673346
+2203.948157,4,2010,Kanpur,Residential Lane,Furnished,Apartment,Yes,525154
+2192.105043,6,2023,Indore,Highway Facing,Unfurnished,Apartment,No,547437
+2766.201615,7,1988,Gurugram,Gated Society,Furnished,Independent House,No,832818
+2855.439123,5,2007,Gurugram,Residential Lane,Semi-Furnished,Apartment,Yes,737272
+2250.105477,2,2019,Indore,Highway Facing,Semi-Furnished,Apartment,No,540137
+2460.178011,6,2015,Lucknow,Corner Plot,Furnished,Apartment,Yes,698704
+2239.998545,5,1992,Kanpur,Gated Society,Furnished,Villa,No,695371
+,7,1997,Kanpur,Corner Plot,Semi-Furnished,Apartment,No,446111
+2122.081618,6,2009,Indore,Highway Facing,Furnished,Apartment,Yes,579905
+2747.569833,6,2004,Prayagraj,Highway Facing,Unfurnished,Duplex,No,708820
+1736.62638,3,1986,Jaipur,Residential Lane,Semi-Furnished,Apartment,No,394250
+1939.595832,4,2021,Prayagraj,Residential Lane,Furnished,Apartment,Yes,537781
+1806.925628,7,2017,Delhi,Main Road,Semi-Furnished,Apartment,No,619430
+2153.809972,4,2016,Noida,Main Road,Semi-Furnished,Duplex,No,651173
+2058.105882,3,2008,Prayagraj,Residential Lane,Semi-Furnished,Independent House,Yes,528851
+2728.386177,2,1999,Kanpur,Highway Facing,Furnished,Independent House,No,640946
+2555.997118,7,2006,Lucknow,Main Road,Unfurnished,Apartment,No,596022
+1663.548685,4,1996,Indore,Highway Facing,Furnished,Duplex,No,524302
+1463.461045,7,2019,Prayagraj,Highway Facing,Unfurnished,Independent House,No,468898
+1802.752114,7,2002,Delhi,Main Road,Unfurnished,Duplex,No,627680
+1658.913345,2,2018,Prayagraj,Main Road,Unfurnished,Independent House,No,442639
+2522.39119,5,2024,Lucknow,Main Road,Unfurnished,Independent House,Yes,690207
+2229.437539,5,1999,Prayagraj,Corner Plot,Unfurnished,Apartment,No,499272
+3103.113318,3,2001,Kanpur,Main Road,Semi-Furnished,Apartment,No,672526
+1728.925969,3,1990,Jaipur,Residential Lane,,Apartment,No,417965
+2638.347725,4,1989,Jaipur,Residential Lane,Furnished,Duplex,Yes,709616
+2923.128904,3,2019,Jaipur,Gated Society,Furnished,Duplex,No,776584
+2850.040101,2,1985,Lucknow,Residential Lane,Furnished,Independent House,No,646664
+1956.297819,2,2017,Jaipur,Residential Lane,Semi-Furnished,Duplex,Yes,578205
+2615.315584,7,2011,Indore,Highway Facing,Unfurnished,Apartment,No,672240
+2912.834684,7,2010,Noida,Main Road,Semi-Furnished,Apartment,No,744381
+1801.805318,7,2017,Prayagraj,Main Road,Furnished,Independent House,Yes,620608
+1995.478165,2,2001,Indore,Residential Lane,Semi-Furnished,Independent House,Yes,498474
+2276.937978,6,2001,Indore,Corner Plot,Unfurnished,Apartment,Yes,592179
+2929.283484,5,2002,Indore,Highway Facing,Furnished,Apartment,No,673320
+1371.219675,4,2010,Delhi,Residential Lane,Furnished,Duplex,No,537743
+1883.265058,3,2017,Delhi,Corner Plot,Unfurnished,Villa,No,584590
+1760.032721,3,2019,Lucknow,Gated Society,Semi-Furnished,Apartment,No,443062
+1888.388043,7,1985,Noida,Residential Lane,Semi-Furnished,Independent House,Yes,605901
+1986.190346,2,1998,Noida,Main Road,Semi-Furnished,Independent House,No,583043
+1713.712836,5,2010,Prayagraj,Residential Lane,Semi-Furnished,Independent House,No,430877
+1854.415118,3,1993,Prayagraj,Main Road,Unfurnished,Independent House,No,441189
+2460.663755,4,1996,Indore,Corner Plot,Semi-Furnished,Apartment,No,541348
+2214.480309,6,2020,Lucknow,Corner Plot,Unfurnished,Independent House,Yes,657809
+1871.664142,4,1990,Prayagraj,Highway Facing,Furnished,Apartment,Yes,436874
+1563.732868,4,1989,Prayagraj,Main Road,Semi-Furnished,Apartment,No,394701
+2546.581827,3,2008,Jaipur,Residential Lane,Unfurnished,Independent House,No,554804
+1865.475421,7,2015,Lucknow,Corner Plot,Furnished,Independent House,No,614322
+2511.424721,3,1989,Lucknow,Main Road,Semi-Furnished,Apartment,Yes,591075
+,2,1996,Indore,Residential Lane,Furnished,Independent House,No,479128
+2504.232036,5,2013,Prayagraj,Residential Lane,Furnished,Independent House,No,639094
+2502.933254,2,1985,Kanpur,Gated Society,Semi-Furnished,Apartment,No,527024
+3103.857986,4,1994,Prayagraj,Gated Society,Furnished,Independent House,No,763786
+3024.007408,5,2016,Noida,Highway Facing,Furnished,Villa,No,884376
+2290.534315,2,1995,Delhi,Corner Plot,Semi-Furnished,Apartment,No,565545
+2408.840788,2,2005,Jaipur,Main Road,Semi-Furnished,Independent House,No,623102
+1987.449623,3,2008,Kanpur,Corner Plot,Furnished,Apartment,No,499259
+2588.875242,6,2024,Noida,Highway Facing,Semi-Furnished,Apartment,No,742073
+1843.429351,2,1996,Prayagraj,Main Road,,Duplex,No,457379
+2709.776787,6,2003,Noida,Highway Facing,Furnished,Villa,No,869636
+2331.719207,3,1997,Lucknow,Residential Lane,Furnished,Apartment,No,536703
+1971.961338,7,1993,Prayagraj,Gated Society,Semi-Furnished,Duplex,No,618145
+1676.999099,3,1999,Jaipur,Corner Plot,Semi-Furnished,Apartment,Yes,450193
+2514.603453,2,1988,Noida,Gated Society,Furnished,Apartment,Yes,639144
+1554.701744,4,2023,Jaipur,Highway Facing,Furnished,Villa,Yes,612160
+3123.27107,6,2009,Noida,Gated Society,Furnished,Apartment,Yes,828379
+794.0251729,5,2012,Prayagraj,Residential Lane,Unfurnished,Villa,No,362270
+2291.87035,7,1995,Lucknow,Gated Society,Furnished,Independent House,No,694050
+2527.519994,7,1999,Gurugram,Highway Facing,Furnished,Duplex,Yes,798935
+1646.780539,3,2020,Delhi,Gated Society,Unfurnished,Independent House,No,527653
+3333.452541,3,1998,Delhi,Gated Society,Furnished,Apartment,No,841504
+1714.647523,3,2001,Gurugram,Highway Facing,Semi-Furnished,Independent House,No,488412
+2549.885517,3,2008,Kanpur,Highway Facing,Semi-Furnished,Duplex,Yes,629956
+1006.026136,2,1997,Lucknow,Corner Plot,Semi-Furnished,Villa,No,373658
+2635.066423,3,1996,Indore,Corner Plot,Unfurnished,Apartment,No,550117
+2322.700174,5,2000,Jaipur,Main Road,Semi-Furnished,Duplex,No,665811
+1676.801834,7,2020,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,489954
+1933.704327,3,1986,Noida,Residential Lane,Furnished,Apartment,No,465074
+1303.12502,4,2005,Lucknow,Main Road,Furnished,Apartment,Yes,427607
+1936.682786,5,2024,Jaipur,Highway Facing,Unfurnished,Apartment,No,503673
+2417.689367,6,2020,Noida,Main Road,Unfurnished,Apartment,No,650928
+2572.449928,7,2007,Kanpur,Main Road,Unfurnished,Apartment,Yes,657127
+1294.224878,6,2003,Delhi,Gated Society,Furnished,Independent House,No,586043
+,5,2018,Jaipur,Highway Facing,Furnished,Apartment,No,583729
+2488.077466,4,2003,Kanpur,Residential Lane,Unfurnished,Independent House,No,591204
+3221.15609,2,1989,Prayagraj,Highway Facing,Furnished,Duplex,No,711736
+1915.327671,6,2002,Gurugram,Corner Plot,Furnished,Duplex,Yes,685190
+2297.558544,4,2003,Lucknow,Main Road,Furnished,Villa,No,656963
+1894.116439,7,2023,Noida,Highway Facing,Semi-Furnished,Independent House,No,626727
+2001.982677,,2015,Jaipur,Corner Plot,Furnished,Independent House,No,646793
+2748.697642,7,1992,Gurugram,Residential Lane,Furnished,Apartment,No,719403
+1161.857453,4,1998,Jaipur,Corner Plot,Furnished,Apartment,No,347599
+2050.027083,,2015,Prayagraj,Corner Plot,Furnished,Apartment,No,485379
+2162.532116,3,1999,Noida,Main Road,Furnished,Independent House,No,623407
+2617.957509,3,1990,Prayagraj,Residential Lane,Furnished,Apartment,No,578760
+2727.523112,6,2016,Kanpur,Residential Lane,Furnished,Apartment,Yes,711620
+1364.850488,6,1986,Jaipur,Main Road,Furnished,Villa,Yes,577467
+,7,1988,Gurugram,Highway Facing,Semi-Furnished,Apartment,No,492655
+1711.959905,5,2009,Lucknow,Gated Society,Semi-Furnished,Independent House,No,565231
+1981.982464,2,1986,Lucknow,Residential Lane,Furnished,Independent House,Yes,515115
+6680.510005,4,2019,Lucknow,Gated Society,Semi-Furnished,Duplex,No,1366762.171
+2574.74928,5,1997,Delhi,Main Road,Unfurnished,Independent House,No,688488
+2089.738965,6,2010,Jaipur,Gated Society,Semi-Furnished,Independent House,No,601347
+1840.355886,4,1991,Kanpur,Main Road,Furnished,Independent House,No,511156
+2157.566043,5,1991,Prayagraj,Highway Facing,Furnished,Apartment,No,504223
+1378.109531,7,2004,Lucknow,Main Road,Unfurnished,Independent House,Yes,516095
+1871.854018,6,2023,Kanpur,Gated Society,Unfurnished,Independent House,No,604897
+1626.603304,4,2002,Indore,Highway Facing,Semi-Furnished,Independent House,Yes,476333
+1532.891282,6,2012,Prayagraj,Corner Plot,Semi-Furnished,Apartment,No,446372
+1865.890242,6,2022,Lucknow,Residential Lane,Unfurnished,Independent House,No,527382
+3721.376956,6,2023,Gurugram,Gated Society,Unfurnished,Apartment,No,924877
+2794.030833,6,2023,Kanpur,Residential Lane,Furnished,Villa,No,825096
+2931.709927,4,2019,Jaipur,Main Road,,Apartment,No,690087
+2136.626672,3,1994,Noida,Residential Lane,Semi-Furnished,Duplex,Yes,603264
+1435.72046,7,2005,Kanpur,Main Road,Unfurnished,Independent House,Yes,515166
+2515.410143,3,2022,Noida,Gated Society,Furnished,Independent House,No,745682
+2256.366553,5,2015,Indore,Highway Facing,Furnished,Independent House,No,623455
+1895.800601,4,2022,Gurugram,Main Road,Semi-Furnished,Apartment,No,571570
+2503.537285,5,1992,Jaipur,Residential Lane,Furnished,Independent House,No,656681
+2310.248327,6,2000,Prayagraj,Gated Society,,Independent House,No,653100
+2252.654709,7,2017,Delhi,Highway Facing,Furnished,Apartment,No,689598
+2610.890064,5,1992,Prayagraj,Residential Lane,Furnished,Apartment,No,613935
+,2,2007,Lucknow,Main Road,Furnished,Villa,No,738476
+3226.973312,3,2002,Lucknow,Gated Society,Semi-Furnished,Duplex,No,810033
+1938.279565,6,2014,Gurugram,Highway Facing,Furnished,Independent House,Yes,685243
+2187.337648,3,2019,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,507919
+2459.524286,4,1985,Gurugram,Corner Plot,Semi-Furnished,Apartment,No,582821
+1672.671849,4,2023,Jaipur,Main Road,Unfurnished,Apartment,No,420936
+2579.759977,5,2004,Lucknow,Corner Plot,Semi-Furnished,Independent House,No,664738
+2658.970996,3,2003,Indore,Highway Facing,Furnished,Independent House,No,618721
+1931.762045,2,2002,Prayagraj,Corner Plot,Semi-Furnished,Independent House,No,485855
+2734.939703,4,1993,Delhi,Gated Society,Furnished,Apartment,No,732500
+3269.526696,3,2023,Gurugram,Corner Plot,Furnished,Apartment,Yes,833496
+2356.470482,5,1996,Kanpur,Corner Plot,Furnished,Villa,No,694331
+2272.702558,2,2017,Noida,Main Road,Furnished,Apartment,No,591822
+1953.581377,7,2013,Lucknow,Residential Lane,Semi-Furnished,Apartment,No,512760
+,5,2009,Prayagraj,Corner Plot,Semi-Furnished,Independent House,No,662505
+2084.218765,3,1989,Jaipur,Gated Society,Unfurnished,Apartment,Yes,506362
+1871.973726,5,2013,Delhi,Gated Society,Furnished,Apartment,No,619770
+2215.443326,2,1997,Gurugram,Main Road,Furnished,Apartment,No,572456
+2894.508366,3,2016,Kanpur,Gated Society,,Independent House,No,728194
+1776.74069,2,2018,Jaipur,Highway Facing,Unfurnished,Independent House,No,465865
+2047.350659,4,1996,Noida,Highway Facing,Semi-Furnished,Apartment,No,543166
+1796.704199,6,2014,Delhi,Main Road,Furnished,Independent House,No,648950
+1525.661174,4,2007,Indore,Residential Lane,Semi-Furnished,Independent House,No,459576
+2549.130452,5,2017,Gurugram,Main Road,Furnished,Villa,No,818945
+1454.179955,6,2012,Delhi,Residential Lane,Semi-Furnished,Independent House,Yes,589015
+2222.771073,2,2002,Kanpur,Residential Lane,Semi-Furnished,Duplex,Yes,555390
+1090.463661,7,1986,Kanpur,Residential Lane,Semi-Furnished,Independent House,No,321702
+2071.568148,3,2001,Prayagraj,Residential Lane,Unfurnished,Apartment,No,465769
+2225.060135,4,1998,Jaipur,Residential Lane,Unfurnished,Independent House,No,545932
+1888.441225,2,1999,Delhi,Gated Society,Unfurnished,Duplex,No,558091
+2037.864152,3,1990,Indore,Main Road,Semi-Furnished,Apartment,No,444955
+2457.533814,5,2013,Prayagraj,Main Road,Furnished,Apartment,No,615193
+2693.648964,7,2013,Kanpur,Corner Plot,Furnished,Duplex,Yes,814401
+1760.003798,4,1986,Noida,Highway Facing,Semi-Furnished,Duplex,No,519337
+2901.301162,2,1987,Noida,Main Road,Semi-Furnished,Apartment,No,654270
+2235.119241,5,2020,Delhi,Highway Facing,Furnished,Duplex,Yes,749831
+2469.543796,7,2006,Prayagraj,Main Road,Unfurnished,Apartment,No,603776
+1112.610964,2,2023,Prayagraj,Highway Facing,Unfurnished,Apartment,No,287984
+2597.554792,6,2005,Lucknow,Gated Society,Unfurnished,Independent House,No,689572
+2494.143798,2,1986,Noida,Main Road,Furnished,Independent House,No,658649
+2274.089107,5,2009,Gurugram,Corner Plot,Unfurnished,Independent House,Yes,674803
+2359.236115,5,2015,Indore,Main Road,Furnished,Independent House,Yes,684447
+1722.456471,5,1997,Jaipur,Main Road,Furnished,Apartment,No,487603
+2521.575805,2,2024,Indore,Residential Lane,Semi-Furnished,Apartment,No,546820
+1834.017736,6,2006,Noida,Residential Lane,Furnished,Duplex,No,629517
+1653.064313,4,2010,Jaipur,Gated Society,Furnished,Independent House,No,548043
+2555.073242,7,2013,Gurugram,Gated Society,Semi-Furnished,Independent House,No,789462
+,3,1993,Prayagraj,Main Road,Unfurnished,Duplex,No,644252
+2549.197096,2,1988,Indore,Gated Society,Furnished,Villa,No,741103
+2089.595795,2,2000,Gurugram,Residential Lane,Furnished,Apartment,No,504517
+2769.434078,4,2020,Indore,Main Road,Semi-Furnished,Apartment,No,631711
+2016.687813,6,2022,Kanpur,Main Road,Semi-Furnished,Duplex,No,620077
+2286.765179,6,2010,Noida,Residential Lane,Semi-Furnished,Apartment,No,622814
+1662.012361,7,2024,Noida,Gated Society,Semi-Furnished,Independent House,Yes,647236
+2141.815287,7,2002,Delhi,Corner Plot,Semi-Furnished,Apartment,No,638596
+2317.993935,7,2012,Jaipur,Highway Facing,Unfurnished,Villa,Yes,771495
+1148.77571,5,1999,Prayagraj,Gated Society,Unfurnished,Independent House,No,382053
+2090.833548,3,2022,Noida,Highway Facing,Semi-Furnished,Apartment,No,530276
+1890.986845,3,1998,Gurugram,Main Road,Unfurnished,Independent House,No,540206
+1849.922051,7,2012,Delhi,Gated Society,Semi-Furnished,Duplex,No,701811
+2154.544443,5,2016,Prayagraj,Gated Society,Furnished,Independent House,Yes,708014
+2305.004088,6,2005,Delhi,Highway Facing,Furnished,Apartment,Yes,709247
+1185.245596,6,2001,Kanpur,Corner Plot,Semi-Furnished,Apartment,No,371885
+2077.839521,6,2008,Indore,Highway Facing,Semi-Furnished,Apartment,Yes,561467
+2266.575822,6,2018,Noida,Highway Facing,Unfurnished,Duplex,No,680122
+1107.922026,5,2008,Kanpur,Gated Society,Semi-Furnished,Apartment,No,362466
+2283.348765,3,2021,Jaipur,Corner Plot,Unfurnished,Apartment,No,493058
+2226.806535,7,2012,Lucknow,Residential Lane,Unfurnished,Apartment,Yes,548593
+1642.647596,6,1991,Noida,Highway Facing,Semi-Furnished,Villa,Yes,598037
+1574.067925,3,2009,Lucknow,Main Road,Semi-Furnished,Apartment,No,416493
+2803.100915,5,2005,Kanpur,Main Road,Unfurnished,Independent House,No,632116
+1441.119674,3,1995,Lucknow,Highway Facing,Furnished,Duplex,No,447982
+2293.955444,3,2013,Noida,Corner Plot,Semi-Furnished,Apartment,No,583046
+2763.076966,5,2024,Indore,Highway Facing,Furnished,Apartment,No,678692
+1584.004713,2,1992,Noida,Main Road,Furnished,Apartment,No,431796
+2132.160765,5,2009,Kanpur,Residential Lane,Furnished,Villa,No,656952
+1800.178073,2,2022,Prayagraj,Highway Facing,Furnished,Apartment,No,389902
+2797.906299,2,2000,Delhi,Corner Plot,Furnished,Independent House,No,745298
+1891.93205,7,1997,Delhi,Residential Lane,Semi-Furnished,Apartment,No,567850
+2629.044397,2,2009,Kanpur,Corner Plot,Semi-Furnished,Apartment,No,563730
+1811.202371,7,1988,Lucknow,Highway Facing,Semi-Furnished,Independent House,No,539603
+2028.758662,7,2013,Delhi,Residential Lane,Semi-Furnished,Apartment,No,641477
+1894.505364,3,2010,Delhi,Residential Lane,Unfurnished,Independent House,No,544405
+2168.150738,2,1986,Prayagraj,Residential Lane,Semi-Furnished,Apartment,No,408435
+2207.689999,5,1996,Jaipur,Highway Facing,Semi-Furnished,Independent House,No,559067
+2531.899164,3,1989,Gurugram,Main Road,Semi-Furnished,Duplex,Yes,716318
+2234.462651,7,2023,Noida,Main Road,Semi-Furnished,Independent House,No,741838
+2102.858035,7,2011,Jaipur,Corner Plot,Unfurnished,Independent House,No,579881
+2078.100812,5,2000,Gurugram,Gated Society,Furnished,Independent House,Yes,714204
+1861.903199,2,1999,Noida,Corner Plot,Unfurnished,Independent House,Yes,508792
+1840.56884,5,2019,Indore,Main Road,Furnished,Duplex,No,613071
+1775.171755,3,2006,Noida,Main Road,Semi-Furnished,Villa,No,617943
+3158.306847,2,2013,Kanpur,Highway Facing,Semi-Furnished,Apartment,No,689676
+1591.210277,4,2018,Noida,Main Road,Furnished,Independent House,Yes,628948
+1848.150189,6,1987,Lucknow,Residential Lane,Unfurnished,Independent House,Yes,520115
+3242.820622,6,2011,Gurugram,Main Road,Unfurnished,Independent House,Yes,879873
+2465.828655,4,2018,Delhi,Corner Plot,Furnished,Independent House,No,760151
+3486.520923,4,1990,Indore,Residential Lane,Semi-Furnished,Villa,Yes,864560
+1918.576793,6,1994,Jaipur,Main Road,,Apartment,No,496056
+2085.963675,3,2001,Jaipur,Main Road,Unfurnished,Villa,No,607344
+2249.67418,5,2020,Prayagraj,Highway Facing,Semi-Furnished,Apartment,No,543179
+2486.276036,4,2015,Kanpur,Gated Society,Semi-Furnished,Apartment,No,613200
+3130.818901,,1995,Prayagraj,Gated Society,Unfurnished,Independent House,No,736310
+2013.61878,6,2021,Kanpur,Highway Facing,Unfurnished,Apartment,No,508271
+2131.642823,7,2013,Noida,Highway Facing,Semi-Furnished,Duplex,Yes,714091
+1136.499627,7,1991,Delhi,Main Road,Semi-Furnished,Apartment,No,465512
+1138.030883,6,2021,Lucknow,Highway Facing,Unfurnished,Independent House,No,400108
+1923.03671,6,2020,Prayagraj,Main Road,Furnished,Apartment,No,544436
+1568.131725,5,1990,Prayagraj,Gated Society,Furnished,Independent House,No,497873
+1129.018536,5,2001,Indore,Corner Plot,Semi-Furnished,Duplex,Yes,481231
+3367.114325,3,1999,Noida,Residential Lane,Semi-Furnished,Apartment,No,734398
+1661.735442,6,2011,Kanpur,Highway Facing,Semi-Furnished,Duplex,No,540625
+1734.461134,7,1996,Prayagraj,Highway Facing,Semi-Furnished,Independent House,No,524265
+1259.960045,4,2018,Gurugram,Corner Plot,Semi-Furnished,Duplex,Yes,556128
+2618.012618,3,2021,Kanpur,Residential Lane,Semi-Furnished,Apartment,Yes,602547
+2216.911171,4,2008,Prayagraj,Highway Facing,Semi-Furnished,Villa,Yes,620314
+2444.05661,4,1996,Jaipur,Highway Facing,Unfurnished,Independent House,No,572811
+2157.95518,,1994,Kanpur,Highway Facing,Semi-Furnished,Independent House,No,554435
+2197.034675,6,2012,Jaipur,Main Road,Unfurnished,Apartment,No,544181
+1979.496644,3,2024,Gurugram,Residential Lane,Furnished,Apartment,No,573593
+2439.380975,2,2003,Lucknow,Gated Society,,Villa,No,684385
+2855.09722,3,1985,Delhi,Corner Plot,Furnished,Apartment,Yes,717183
+1465.275678,3,1986,Kanpur,Main Road,Furnished,Duplex,No,451184
+2812.248061,3,2023,Prayagraj,Highway Facing,Furnished,Villa,No,742729
+1998.40895,3,2014,Noida,Residential Lane,Semi-Furnished,Apartment,No,531907
+1867.16407,7,2023,Gurugram,Main Road,Semi-Furnished,Duplex,Yes,730677
+1843.11985,4,2020,Prayagraj,Corner Plot,Semi-Furnished,Apartment,Yes,511734
+1963.259269,2,1990,Kanpur,Gated Society,Semi-Furnished,Duplex,Yes,539480
+2369.700246,6,2001,Kanpur,Gated Society,Semi-Furnished,Duplex,No,679735
+2108.854314,4,1994,Lucknow,Gated Society,Semi-Furnished,Duplex,No,593038
+2296.346222,2,2023,Delhi,Residential Lane,,Apartment,No,574167
+2461.57364,2,2007,Jaipur,Corner Plot,Semi-Furnished,Villa,Yes,667439
+1646.963992,4,1990,Noida,Main Road,Semi-Furnished,Independent House,Yes,521881
+3521.660005,3,2020,Lucknow,Corner Plot,Semi-Furnished,Apartment,Yes,808756
+1263.953773,3,2021,Noida,Residential Lane,Furnished,Apartment,No,400808
+2541.081829,5,2004,Delhi,Residential Lane,Unfurnished,Duplex,No,643518
+2901.23756,7,2004,Delhi,Gated Society,Semi-Furnished,Apartment,No,812382
+2174.556331,4,2001,Prayagraj,Highway Facing,Semi-Furnished,Apartment,No,491874
+3004.36714,2,1993,Prayagraj,Gated Society,Furnished,Villa,No,775219
+2138.680067,6,1985,Kanpur,Residential Lane,Unfurnished,Independent House,Yes,577915
+3614.597425,4,1994,Kanpur,Residential Lane,Unfurnished,Apartment,No,668738
+2562.834873,6,1992,Prayagraj,Gated Society,Furnished,Duplex,No,693793
+1494.981728,7,1995,Lucknow,Corner Plot,Unfurnished,Apartment,Yes,419352
+1468.112178,6,1990,Noida,Main Road,Semi-Furnished,Independent House,Yes,504057
+2211.234035,7,2009,Indore,Residential Lane,Furnished,Duplex,No,643945
+1887.450518,5,2007,Delhi,Residential Lane,Furnished,Apartment,No,586634
+1928.710896,6,2016,Indore,Highway Facing,Semi-Furnished,Apartment,No,488661
+2522.738558,5,2021,Delhi,Residential Lane,Furnished,Independent House,No,746353
+1886.327263,4,1986,Delhi,Highway Facing,Semi-Furnished,Villa,No,610715
+2141.816668,3,2024,Indore,Residential Lane,Semi-Furnished,Apartment,Yes,567484
+1477.206082,7,2001,Kanpur,Highway Facing,Semi-Furnished,Duplex,No,507577
+,7,1995,Lucknow,Highway Facing,,Apartment,No,591433
+2364.418532,4,2005,Lucknow,Corner Plot,Semi-Furnished,Independent House,No,609185
+1389.310846,3,2022,Jaipur,Corner Plot,Furnished,Apartment,No,400557
+1860.382064,5,1986,Kanpur,Gated Society,Unfurnished,Duplex,No,513929
+2020.329714,2,2001,Kanpur,Gated Society,Semi-Furnished,Duplex,No,538305
+1832.866736,4,1992,Prayagraj,Corner Plot,Unfurnished,Independent House,Yes,494298
+1291.346763,7,2017,Lucknow,Residential Lane,Furnished,Apartment,No,429848
+1973.936285,7,1999,Lucknow,Residential Lane,Semi-Furnished,Apartment,No,533298
+8858.260499,4,2013,Delhi,Corner Plot,Unfurnished,Apartment,No,1273974.917
+2290.972013,2,1993,Jaipur,Gated Society,Semi-Furnished,Independent House,No,548699
+2075.091696,7,2020,Delhi,Residential Lane,Unfurnished,Apartment,No,609965
+1968.852267,4,1995,Jaipur,Highway Facing,Semi-Furnished,Apartment,No,471386
+1789.73183,4,1993,Jaipur,Residential Lane,Furnished,Independent House,No,487444
+1989.23184,5,2011,Lucknow,Main Road,Semi-Furnished,Villa,No,653213
+2111.76934,4,1988,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,525335
+3129.053914,5,1995,Noida,Corner Plot,Furnished,Duplex,No,861288
+2530.433244,4,1993,Kanpur,Main Road,Semi-Furnished,Villa,Yes,689816
+,4,1992,Delhi,Highway Facing,Semi-Furnished,Apartment,No,543668
+2747.175157,3,1998,Noida,Residential Lane,Semi-Furnished,Apartment,No,619009
+1923.669121,6,2008,Jaipur,Highway Facing,Semi-Furnished,Apartment,No,484622
+2222.676088,5,2007,Jaipur,Gated Society,Semi-Furnished,Apartment,No,599370
+3245.147633,2,2010,Jaipur,Corner Plot,Semi-Furnished,Independent House,No,757542
+2852.380011,3,2011,Lucknow,Corner Plot,Semi-Furnished,Apartment,Yes,695554
+1592.591085,6,2002,Jaipur,Main Road,Unfurnished,Apartment,No,416426
+1874.649036,3,1994,Prayagraj,Corner Plot,Semi-Furnished,Duplex,No,465479
+1500.976553,5,2021,Lucknow,Main Road,Furnished,Independent House,No,517761
+2348.532242,5,2006,Noida,Residential Lane,Semi-Furnished,Apartment,No,589247
+1684.954672,4,2002,Noida,Residential Lane,Unfurnished,Apartment,No,406783
+2569.268554,6,2015,Indore,Main Road,Semi-Furnished,Villa,No,787687
+2036.971506,2,2016,Delhi,Corner Plot,Unfurnished,Duplex,No,568739
+2632.523417,4,1999,Delhi,Gated Society,Semi-Furnished,Apartment,No,689382
+2199.264653,4,1993,Prayagraj,Highway Facing,Semi-Furnished,Apartment,No,503304
+2141.408992,5,2003,Noida,Highway Facing,Furnished,Duplex,No,630502
+1874.297721,5,2013,Lucknow,Gated Society,Unfurnished,Villa,Yes,692626
+1248.355498,2,1990,Gurugram,Highway Facing,Semi-Furnished,Independent House,No,420714
+2448.098517,5,2021,Indore,Residential Lane,Semi-Furnished,Independent House,No,631656
+2065.371078,6,2015,Jaipur,Corner Plot,Unfurnished,Independent House,No,589617
+1905.443606,7,2022,Gurugram,Highway Facing,Furnished,Apartment,No,611146
+2214.614756,7,1997,Prayagraj,Residential Lane,Unfurnished,Duplex,Yes,610625
+2142.267761,2,2013,Noida,Main Road,Unfurnished,Apartment,No,525838
+2439.43141,7,2009,Indore,Corner Plot,Semi-Furnished,Apartment,No,608409
+2270.74578,3,1985,Prayagraj,Main Road,Unfurnished,Apartment,No,450512
+2043.233033,7,2001,Jaipur,Residential Lane,Semi-Furnished,Apartment,Yes,581738
+1778.1129,7,1990,Indore,Gated Society,Furnished,Apartment,Yes,556191
+,6,2020,Indore,Residential Lane,Semi-Furnished,Duplex,Yes,444230
+1884.254583,2,1985,Kanpur,Main Road,Furnished,Apartment,No,419106
+1514.841652,7,1992,Indore,Main Road,Furnished,Duplex,No,546877
+1803.202861,2,2016,Gurugram,Main Road,Semi-Furnished,Apartment,No,499389
+1413.23624,6,2001,Lucknow,Corner Plot,Furnished,Independent House,No,504999
+831.2829126,6,1999,Gurugram,Corner Plot,Furnished,Duplex,No,447061
+2258.964379,2,2008,Kanpur,Corner Plot,Semi-Furnished,Independent House,No,533074
+1985.149908,4,2006,Noida,Highway Facing,Furnished,Independent House,Yes,636029
+1466.196406,4,2005,Jaipur,Corner Plot,,Independent House,Yes,512052
+2573.308431,5,2001,Kanpur,Highway Facing,Semi-Furnished,Independent House,No,635520
+2363.604129,6,2019,Indore,Gated Society,Furnished,Villa,No,782560
+2362.377916,5,1985,Gurugram,Gated Society,Furnished,Independent House,No,699940
+2269.953916,4,2000,Noida,Residential Lane,Semi-Furnished,Apartment,No,553365
+1679.775181,4,2014,Gurugram,Main Road,Semi-Furnished,Independent House,No,563639
+2504.462549,3,1995,Kanpur,Highway Facing,Furnished,Apartment,No,560917
+2140.037119,7,1998,Gurugram,Highway Facing,Furnished,Apartment,No,634025
+1584.123173,2,2015,Kanpur,Gated Society,Semi-Furnished,Independent House,Yes,511388
+1049.478968,2,2001,Lucknow,Gated Society,Furnished,Villa,Yes,485336
+3809.998551,5,1987,Lucknow,Residential Lane,Semi-Furnished,Apartment,Yes,809701
+2492.31531,5,1988,Lucknow,Highway Facing,Furnished,Duplex,No,642327
+1663.44941,6,2015,Delhi,Highway Facing,Semi-Furnished,Duplex,No,630978
+2258.883158,2,1998,Delhi,Highway Facing,Unfurnished,Villa,No,657681
+2392.377086,,2010,Gurugram,Highway Facing,Unfurnished,Duplex,No,691366
+1386.672582,6,2003,Kanpur,Main Road,Unfurnished,Apartment,No,411902
+1430.506864,2,1996,Kanpur,Main Road,Furnished,Apartment,No,330526
+3132.513796,5,1994,Delhi,Gated Society,Semi-Furnished,Apartment,Yes,848126
+2098.946699,6,2016,Noida,Main Road,Unfurnished,Duplex,Yes,668447
+2436.012406,7,2002,Prayagraj,Main Road,Unfurnished,Apartment,Yes,631611
+2478.22405,3,1989,Prayagraj,Residential Lane,Furnished,Independent House,Yes,645516
+2480.856945,2,2017,Indore,Gated Society,Semi-Furnished,Duplex,Yes,680453
+2162.587454,5,1996,Delhi,Highway Facing,,Independent House,No,696907
+2378.643204,3,1998,Noida,Main Road,Furnished,Villa,No,726365
+1299.495593,6,2003,Kanpur,Highway Facing,Semi-Furnished,Independent House,No,416729
+2411.00703,2,2009,Gurugram,Corner Plot,Unfurnished,Apartment,No,569403
+2586.685831,4,2007,Noida,Corner Plot,Unfurnished,Independent House,No,652905
+2656.468768,4,1988,Noida,Highway Facing,Semi-Furnished,Apartment,No,597546
+1758.458343,,2008,Delhi,Corner Plot,Furnished,Apartment,No,521830
+1559.360331,3,2000,Kanpur,Corner Plot,Semi-Furnished,Independent House,Yes,457205
+2331.92176,4,2005,Delhi,Main Road,Semi-Furnished,Independent House,No,692499
+1479.160001,6,2017,Kanpur,Main Road,Unfurnished,Independent House,Yes,493112
+2716.297989,3,2015,Noida,Gated Society,Semi-Furnished,Apartment,No,661917
+1375.897058,7,2009,Kanpur,Highway Facing,Furnished,Independent House,No,511841
+1852.873912,4,2019,Kanpur,Residential Lane,Semi-Furnished,Apartment,No,457032
+1690.895957,4,2020,Indore,Residential Lane,Unfurnished,Villa,Yes,560322
+2719.790297,6,2000,Jaipur,Gated Society,Furnished,Independent House,Yes,795024
+1415.245383,2,1986,Noida,Gated Society,Unfurnished,Independent House,No,417392
+2480.447144,5,1988,Jaipur,Gated Society,Furnished,Villa,Yes,793977
+2608.945815,6,2001,Kanpur,Main Road,Furnished,Independent House,No,707866
+2036.720081,6,1997,Jaipur,Highway Facing,Unfurnished,Independent House,Yes,601560
+2221.480966,6,1997,Indore,Highway Facing,Furnished,Independent House,No,632098
+3102.567509,7,2023,Gurugram,Main Road,Semi-Furnished,Independent House,No,888507
+3083.534904,4,1987,Jaipur,Main Road,Semi-Furnished,Apartment,No,682270
+,5,1997,Prayagraj,Highway Facing,Semi-Furnished,Independent House,No,474108
+1870.608995,7,1988,Jaipur,Main Road,Furnished,Apartment,No,555865
+2029.284955,6,2007,Noida,Residential Lane,Semi-Furnished,Duplex,Yes,635211
+2609.948398,7,2013,Kanpur,Highway Facing,Semi-Furnished,Independent House,No,695674
+1924.403734,4,1992,Noida,Gated Society,Unfurnished,Apartment,No,510822
+1876.679032,5,2021,Jaipur,Highway Facing,Semi-Furnished,Independent House,Yes,596353
+2493.814324,3,1985,Lucknow,Main Road,Unfurnished,Duplex,Yes,608805
+3689.653872,7,2006,Noida,Residential Lane,Furnished,Independent House,No,963079
+2088.250595,5,1991,Indore,Highway Facing,Furnished,Independent House,No,554383
+3227.731771,2,2013,Noida,Highway Facing,Furnished,Apartment,No,745818
+2215.654897,6,1994,Indore,Corner Plot,Unfurnished,Apartment,No,518809
+2190.887375,4,2006,Prayagraj,Main Road,Semi-Furnished,Apartment,No,527060
+2264.557,4,2019,Kanpur,Main Road,Furnished,Apartment,Yes,620494
+2598.525478,5,2011,Delhi,Main Road,Semi-Furnished,Independent House,Yes,801207
+1020.531873,4,1986,Prayagraj,Highway Facing,Semi-Furnished,Apartment,No,249726
+1476.949432,3,2019,Gurugram,Highway Facing,Furnished,Independent House,No,489544
+1461.281103,7,1985,Kanpur,Main Road,Semi-Furnished,Apartment,Yes,440910
+2632.569588,4,1986,Prayagraj,Highway Facing,Unfurnished,Apartment,No,510047
+1497.183426,5,2024,Prayagraj,Residential Lane,Semi-Furnished,Apartment,No,421508
+2638.404448,,2015,Prayagraj,Corner Plot,Semi-Furnished,Apartment,Yes,620978
+2044.298082,5,1993,Indore,Highway Facing,Semi-Furnished,Apartment,Yes,500074
+2732.238624,6,2006,Lucknow,Residential Lane,,Independent House,No,698404
+1922.88841,4,2002,Indore,Main Road,Semi-Furnished,Villa,No,606012
+1945.314831,5,2023,Delhi,Corner Plot,Furnished,Duplex,No,640439
+1415.690036,6,1985,Indore,Main Road,Unfurnished,Apartment,No,378914
+2518.926761,4,1987,Jaipur,Main Road,Semi-Furnished,Villa,No,711065
+1471.048489,6,2022,Lucknow,Corner Plot,Furnished,Apartment,No,431858
+1753.693628,6,2024,Kanpur,Corner Plot,Unfurnished,Independent House,Yes,557210
+1525.981336,4,1997,Kanpur,Residential Lane,Semi-Furnished,Apartment,No,347356
+2545.010161,3,2020,Noida,Highway Facing,Unfurnished,Duplex,Yes,725112
+2638.25812,5,2013,Jaipur,Corner Plot,Unfurnished,Apartment,No,599145
+,6,2011,Prayagraj,Highway Facing,Unfurnished,Independent House,Yes,670934
+2645.817856,7,1989,Gurugram,Highway Facing,Furnished,Apartment,Yes,763060
+2568.292448,4,1992,Delhi,Gated Society,Furnished,Apartment,No,715063
+2009.275633,4,1988,Noida,Corner Plot,Semi-Furnished,Apartment,No,496325
+2085.357141,5,2004,Indore,Highway Facing,Furnished,Independent House,No,570302
+2019.869049,5,1992,Jaipur,Residential Lane,Semi-Furnished,Apartment,No,502364
+1768.191844,3,2013,Gurugram,Residential Lane,Unfurnished,Apartment,No,433859
+2965.621313,5,2002,Delhi,Gated Society,Unfurnished,Duplex,No,828612
+1797.813238,7,1994,Jaipur,Main Road,Semi-Furnished,Duplex,No,592005
+2625.645988,4,1985,Gurugram,Main Road,Furnished,Independent House,No,724737
+2337.858368,5,1985,Indore,Corner Plot,Semi-Furnished,Apartment,No,546994
+1104.462004,6,2021,Noida,Highway Facing,Furnished,Villa,Yes,578103
+1834.028192,4,2018,Noida,Gated Society,Furnished,Apartment,No,558889
+3124.508034,3,1999,Delhi,Highway Facing,Furnished,Apartment,No,767255
+2372.947952,4,2017,Kanpur,Residential Lane,Furnished,Apartment,No,555734
+1485.051526,6,1990,Indore,Gated Society,Unfurnished,Apartment,Yes,435255
+1930.585093,5,2010,Kanpur,Main Road,Furnished,Villa,No,647168
+1503.206808,,2020,Prayagraj,Residential Lane,Semi-Furnished,Apartment,No,375473
+1325.421993,,2003,Delhi,Residential Lane,Unfurnished,Independent House,Yes,436812
+1787.83693,4,2010,Lucknow,Highway Facing,Semi-Furnished,Independent House,No,497243
+1613.5963,5,2006,Lucknow,Gated Society,Unfurnished,Independent House,Yes,576355
+1841.505942,3,1994,Delhi,Gated Society,Furnished,Apartment,No,550517
+2071.796693,2,1988,Indore,Highway Facing,Furnished,Independent House,Yes,551990
+1420.684975,4,2003,Jaipur,Main Road,Semi-Furnished,Apartment,Yes,401893
+1930.186041,4,2019,Delhi,Corner Plot,,Apartment,No,568335
+2604.906282,2,1990,Delhi,Highway Facing,Furnished,Apartment,No,614288
+1978.897461,4,2003,Noida,Corner Plot,Furnished,Apartment,Yes,595384
+2218.70509,3,2015,Delhi,Residential Lane,Furnished,Apartment,No,622610
+1371.411108,6,2013,Indore,Highway Facing,Semi-Furnished,Apartment,No,394977
+2975.048116,2,1985,Noida,Residential Lane,Unfurnished,Duplex,Yes,696735
+,3,2003,Lucknow,Gated Society,Semi-Furnished,Duplex,No,550840
+2043.640439,,2009,Gurugram,Highway Facing,Semi-Furnished,Apartment,No,566017
+2973.980975,6,2016,Gurugram,Gated Society,Furnished,Apartment,No,821611
+,7,1999,Prayagraj,Gated Society,Semi-Furnished,Duplex,No,789685
+1502.219413,3,2024,Jaipur,Main Road,Furnished,Apartment,Yes,515158
+700,5,2015,Jaipur,Residential Lane,Semi-Furnished,Apartment,No,270983
+3053.184897,7,1998,Prayagraj,Residential Lane,,Independent House,No,728654
+2371.150508,3,2008,Indore,Highway Facing,Furnished,Independent House,No,588530
+2091.447816,3,1997,Prayagraj,Residential Lane,Semi-Furnished,Villa,No,582270
+2225.54185,5,1996,Prayagraj,Residential Lane,Furnished,Apartment,No,508711
+3257.004514,7,1989,Lucknow,Highway Facing,Furnished,Apartment,Yes,749900
+700,3,2010,Noida,Highway Facing,Semi-Furnished,Apartment,Yes,335518
+2415.16513,5,2011,Delhi,Main Road,Semi-Furnished,Apartment,Yes,720602
+2123.110595,5,2005,Jaipur,Gated Society,Unfurnished,Apartment,No,541348
+2093.682675,4,2001,Delhi,Residential Lane,Unfurnished,Independent House,No,611751
+2126.84826,6,2017,Jaipur,Corner Plot,Unfurnished,Apartment,No,520857
+2486.209228,5,1993,Delhi,Corner Plot,Unfurnished,Apartment,No,626427
+2159.528696,4,2009,Indore,Main Road,Semi-Furnished,Apartment,No,545906
+3001.856563,5,2022,Delhi,Highway Facing,Furnished,Apartment,No,822372
+3008.381342,4,2014,Gurugram,Highway Facing,Semi-Furnished,Apartment,No,721908
+1496.154943,4,2007,Kanpur,Corner Plot,Semi-Furnished,Independent House,No,415259
+2056.110556,7,1991,Indore,Highway Facing,Semi-Furnished,Apartment,No,490359
+2267.606201,4,2013,Jaipur,Gated Society,Semi-Furnished,Duplex,No,640963
+2799.245121,6,1990,Prayagraj,Residential Lane,Semi-Furnished,Apartment,Yes,690441
+2400.966833,4,2007,Noida,Corner Plot,Unfurnished,Apartment,No,578269
+2481.933632,6,2004,Indore,Residential Lane,Furnished,Apartment,No,602814
+1811.629263,6,1997,Delhi,Gated Society,Furnished,Independent House,No,653566
+1981.586568,4,2004,Kanpur,Highway Facing,Furnished,Independent House,No,538539
+1516.801512,,2017,Indore,Main Road,Unfurnished,Independent House,No,496976
+2390.683696,6,1993,Jaipur,Main Road,Furnished,Villa,No,726191
+2559.976622,6,2015,Kanpur,Highway Facing,Unfurnished,Apartment,No,580428
+2700.004828,4,1990,Lucknow,Residential Lane,Furnished,Apartment,Yes,610911
+2343.45408,7,2010,Noida,Gated Society,Furnished,Apartment,No,715475
+1651.080221,5,1997,Prayagraj,Gated Society,Furnished,Duplex,Yes,572534
+1977.198896,3,1988,Delhi,Main Road,Furnished,Apartment,No,565708
+1588.521935,3,2013,Kanpur,Gated Society,Furnished,Apartment,No,430739
+2131.099206,,2023,Indore,Gated Society,Unfurnished,Duplex,No,607874
+2855.099876,4,1996,Prayagraj,Gated Society,Semi-Furnished,Independent House,No,687675
+2174.666228,5,2005,Indore,Main Road,Unfurnished,Apartment,No,511356
+2988.870318,2,2012,Lucknow,Gated Society,Semi-Furnished,Duplex,Yes,780922
+3159.521129,7,2008,Jaipur,Corner Plot,Semi-Furnished,Villa,No,896391
+1440.026367,5,1999,Gurugram,Main Road,Semi-Furnished,Apartment,No,434716
+1941.509585,5,2011,Delhi,Gated Society,Semi-Furnished,Duplex,No,683380
+2766.860101,4,1991,Lucknow,Gated Society,Furnished,Apartment,Yes,709113
+2159.046226,7,1988,Kanpur,Highway Facing,Unfurnished,Apartment,Yes,548660
+2853.248482,2,2004,Noida,Highway Facing,Furnished,Apartment,Yes,677213
+2404.090796,2,1989,Gurugram,Highway Facing,Furnished,Independent House,No,619572
+3117.226313,6,1995,Delhi,Main Road,Semi-Furnished,Independent House,No,866679
+3107.81513,7,1994,Delhi,Highway Facing,Furnished,Independent House,No,860681
+2081.558223,6,1985,Gurugram,Corner Plot,Unfurnished,Independent House,No,609554
+1777.174964,5,2012,Gurugram,Residential Lane,Furnished,Independent House,No,596702
+2576.447763,4,2006,Kanpur,Gated Society,Furnished,Villa,No,746579
+2089.88931,4,2010,Prayagraj,Gated Society,Semi-Furnished,Independent House,No,597366
+1129.967027,2,1996,Lucknow,Highway Facing,,Independent House,No,303144
+2118.258418,5,2010,Prayagraj,Residential Lane,Semi-Furnished,Apartment,Yes,517768
+2198.697096,,1994,Prayagraj,Residential Lane,Unfurnished,Duplex,Yes,598581
+2196.000073,3,1987,Indore,Residential Lane,Semi-Furnished,Apartment,Yes,475803
+2655.066389,6,1997,Indore,Main Road,,Independent House,No,707987
+,6,2023,Lucknow,Residential Lane,Semi-Furnished,Apartment,Yes,544323
+2206.565229,2,2010,Lucknow,Corner Plot,Semi-Furnished,Independent House,No,541646
+2887.195502,7,2017,Prayagraj,Gated Society,Semi-Furnished,Independent House,No,753011
+2283.274065,3,2018,Prayagraj,Highway Facing,Unfurnished,Villa,No,604921
+3263.347861,6,2009,Indore,Gated Society,Semi-Furnished,Independent House,No,837624
+3029.435005,3,1995,Indore,Residential Lane,Furnished,Independent House,Yes,752510
+2302.844615,5,1986,Indore,Gated Society,Semi-Furnished,Independent House,Yes,644115
+1319.594564,3,1996,Lucknow,Corner Plot,Furnished,Apartment,No,326582
+2326.883525,6,2001,Gurugram,Residential Lane,Furnished,Apartment,Yes,663138
+7808.573894,7,2005,Jaipur,Main Road,Furnished,Independent House,No,1353997.69
+2347.417593,,2015,Kanpur,Corner Plot,Semi-Furnished,Independent House,No,606249
+1778.102652,7,2024,Jaipur,Residential Lane,Unfurnished,Apartment,No,488949
+2073.275649,6,2019,Gurugram,Residential Lane,Unfurnished,Apartment,Yes,586039
+2437.793993,5,2004,Noida,Corner Plot,Semi-Furnished,Apartment,No,611494
+3073.953167,7,2023,Kanpur,Corner Plot,Semi-Furnished,Villa,No,863975
+1963.700762,4,1998,Delhi,Main Road,Semi-Furnished,Independent House,No,584246
+2754.321294,4,2023,Kanpur,Residential Lane,Semi-Furnished,Apartment,Yes,621367
+2870.264463,6,1996,Kanpur,Residential Lane,Unfurnished,Apartment,No,616245
+3666.797872,7,1997,Kanpur,Gated Society,Unfurnished,Apartment,No,823572
+2326.530586,3,2016,Prayagraj,Main Road,Semi-Furnished,Apartment,Yes,572398
+2097.131504,7,1992,Gurugram,Corner Plot,Furnished,Independent House,Yes,742468
+2549.255531,7,1995,Jaipur,Highway Facing,Semi-Furnished,Independent House,No,668968
+2959.108909,5,1989,Noida,Highway Facing,Furnished,Villa,No,853016
+1054.870849,7,1990,Jaipur,Corner Plot,Furnished,Apartment,No,393976
+2046.355699,2,1992,Jaipur,Gated Society,Unfurnished,Apartment,No,453081
+2228.799593,5,1998,Indore,Corner Plot,Semi-Furnished,Duplex,No,604770
+10267.12433,7,1990,Indore,Main Road,Semi-Furnished,Villa,Yes,2071401.84
+3326.789542,2,2015,Delhi,Main Road,Furnished,Independent House,No,836563
+1563.682232,7,1996,Jaipur,Residential Lane,Furnished,Apartment,No,472668
+2402.338002,6,1992,Noida,Corner Plot,Semi-Furnished,Apartment,No,611361
+2621.513662,7,1989,Lucknow,Residential Lane,Semi-Furnished,Apartment,No,610022
+1150.019007,5,2018,Prayagraj,Residential Lane,Furnished,Villa,No,496056
+2482.46533,4,2009,Delhi,Gated Society,Semi-Furnished,Apartment,No,665865
+2999.102504,5,2013,Kanpur,Gated Society,Semi-Furnished,Independent House,No,723703
+2863.200131,5,1993,Indore,Residential Lane,Semi-Furnished,Apartment,No,608714
+1686.215186,5,2016,Delhi,Highway Facing,Furnished,Apartment,No,587575
+2030.071992,5,2005,Indore,Gated Society,Semi-Furnished,Apartment,No,499530
+2657.4808,7,2001,Delhi,Corner Plot,Furnished,Apartment,No,763812
+3321.080942,2,1997,Kanpur,Highway Facing,Semi-Furnished,Independent House,Yes,734995
+2760.347702,4,2012,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,609974
+1661.384873,6,1991,Noida,Residential Lane,Semi-Furnished,Villa,No,592390
+3164.257141,7,2001,Lucknow,Residential Lane,Unfurnished,Apartment,No,700394
+1189.60125,5,1993,Noida,Gated Society,Semi-Furnished,Duplex,Yes,488419
+2935.009992,4,1998,Jaipur,Main Road,Semi-Furnished,Duplex,No,733763
+,4,2023,Indore,Corner Plot,Semi-Furnished,Apartment,No,463656
+1895.830351,5,1993,Delhi,Highway Facing,Semi-Furnished,Apartment,No,555886
+2739.347883,,1996,Jaipur,Main Road,Furnished,Apartment,No,639892
+1080.92508,2,1989,Kanpur,Gated Society,Unfurnished,Apartment,No,248640
+1989.285355,6,1994,Jaipur,Gated Society,Unfurnished,Apartment,No,515876
+2852.553571,5,2015,Noida,Residential Lane,Unfurnished,Villa,No,760414
+2040.503769,5,2013,Jaipur,Highway Facing,,Independent House,No,549826
+1079.901695,4,1992,Jaipur,Residential Lane,Semi-Furnished,Apartment,No,318597
+2373.933572,4,2010,Lucknow,Main Road,Furnished,Independent House,No,658515
+1240.980069,7,2012,Noida,Residential Lane,Unfurnished,Apartment,No,418999
+2230.303071,3,1989,Prayagraj,Highway Facing,Semi-Furnished,Independent House,Yes,562880
+1869.174017,3,2004,Prayagraj,Corner Plot,Furnished,Duplex,No,530841
+,6,2018,Noida,Highway Facing,Furnished,Apartment,No,820908
+1211.765438,4,1992,Prayagraj,Corner Plot,,Duplex,No,403417
+1730.397302,3,1999,Indore,Gated Society,Furnished,Apartment,No,452494
+1685.812319,2,2018,Indore,Highway Facing,Furnished,Apartment,No,425631
+3588.594626,3,2012,Kanpur,Highway Facing,Unfurnished,Independent House,No,746609
+2210.701852,3,2015,Lucknow,Highway Facing,Semi-Furnished,Apartment,No,496171
+2440.295906,4,1996,Noida,Main Road,Unfurnished,Apartment,Yes,619353
+2889.452592,7,2008,Kanpur,Gated Society,Semi-Furnished,Independent House,No,803015
+1349.530831,5,2003,Gurugram,Corner Plot,Furnished,Apartment,No,452776
+2329.072022,4,2008,Kanpur,Corner Plot,,Independent House,No,605846
+1602.006624,6,2006,Kanpur,Corner Plot,Semi-Furnished,Duplex,No,532257
+700,6,1998,Indore,Corner Plot,Semi-Furnished,Apartment,No,264649
+2765.735671,4,2010,Gurugram,Highway Facing,Unfurnished,Apartment,Yes,680443
+2450.937219,4,1994,Indore,Main Road,Furnished,Apartment,No,529965
+1801.115978,7,2010,Jaipur,Gated Society,Unfurnished,Duplex,No,586093
+1465.758301,5,1990,Lucknow,Gated Society,Semi-Furnished,Apartment,No,435487
+2461.048417,7,1988,Noida,Corner Plot,Unfurnished,Duplex,No,699925
+3558.174078,7,1989,Kanpur,Highway Facing,Unfurnished,Apartment,No,736329
+2179.880978,4,2011,Prayagraj,Residential Lane,Semi-Furnished,Duplex,No,533498
+,6,2022,Delhi,Main Road,Unfurnished,Independent House,No,533436
+3022.318426,4,2011,Gurugram,Residential Lane,Unfurnished,Independent House,Yes,780760
